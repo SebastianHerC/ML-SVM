@@ -1,0 +1,970 @@
+E. Martínez GK,29,85,85,Aston Villa 2020 ~ 2027,€37M,€105K,1472
+W. Benítez GK,29,80,81,PSV 2022 ~ 2025,€16M,€19K,1281
+J. Musso GK,28,79,80,Atalanta 2021 ~ 2025,€14M,€41K,1212
+F. Armani GK,35,79,79,River Plate 2018 ~ 2024,€1.9M,€10K,1291
+C. Romero CB,24,83,88,Tottenham Hotspur 2022 ~ 2027,€49.5M,€95K,1884
+L. Martínez CB,24,83,88,Manchester United 2022 ~ 2027,€49.5M,€115K,2173
+M. Senesi CB,25,76,78,AFC Bournemouth 2022 ~ 2026,€8.5M,€38K,1837
+F. Medina CB,23,78,83,Lens 2020 ~ 2026,€19M,€27K,1797
+G. Pezzella CB,31,77,77,Real Betis 2021 ~ 2025,€7M,€22K,1660
+N. Otamendi CB,34,82,82,Benfica 2020 ~ 2023,€10M,€19K,1924
+N. Tagliafico LB,29,81,81,Olympique Lyonnais 2022 ~ 2025,€22.5M,€72K,2071
+N. Molina RB RM RWB,24,80,84,Atlético Madrid 2022 ~ 2027,€28M,€46K,2069
+J. Foyth RB CB CDM,24,79,84,Villarreal 2021 ~ 2026,€24.5M,€29K,1929
+G. Montiel RB RWB,25,79,81,Sevilla 2021 ~ 2026,€20M,€28K,2064
+E. Fernández CM CDM,21,81,88,Chelsea 2023 ~ 2031,€52M,€86K,2177
+L. Messi RW,35,91,91,Paris Saint Germain 2021 ~ 2023,€54M,€195K,2190
+P. Dybala CF CAM,28,86,86,Roma 2022 ~ 2025,€69.5M,€130K,2116
+G. Rodríguez CDM,27,81,82,Real Betis 2020 ~ 2024,€26.5M,€30K,1913
+L. Paredes CM CDM,28,79,79,"Juventus Jun 30, 2023 On loan",€17.5M,€82K,2113
+A. Mac Allister CM CAM CDM,23,80,84,Brighton & Hove Albion 2019 ~ 2025,€30M,€65K,2160
+R. De Paul CM RM,28,84,84,Atlético Madrid 2021 ~ 2026,€42M,€85K,2244
+E. Palacios CM CDM CAM,23,80,85,Bayer 04 Leverkusen 2020 ~ 2025,€31.5M,€51K,2108
+F. Buonanotte CAM RM CM,17,68,83,Brighton & Hove Albion 2023 ~ 2026,€2.8M,€3K,1603
+A. Garnacho LW LM,18,70,86,Manchester United 2021 ~ 2028,€4M,€21K,1700
+Á. Correa ST RM CF,27,83,83,Atlético Madrid 2014 ~ 2026,€39.5M,€80K,2146
+N. González RW LW,24,80,83,Fiorentina 2021 ~ 2026,€29M,€58K,1998
+Á. Di María CF RW RM,34,84,84,Juventus 2022 ~ 2023,€20.5M,€160K,2159
+L. Martínez ST,24,85,88,Inter 2018 ~ 2026,€74.5M,€100K,2157
+J. Álvarez ST RW,22,79,86,Manchester City 2022 ~ 2027,€36M,€110K,2129
+L. Beltrán ST,21,74,81,River Plate 2018 ~ 2025,€8.5M,€13K,1933
+
+
+
+
+____________________________________________________________________________________________________________________________________________________________
+Name,Age,Overall rating,Potential,Team & Contract,Value,Wage,Total
+M. Acuña LB LM,30,85,85,Sevilla 2020 ~ 2024,€46.5M,€46K,2304
+A. Gómez LW CAM,34,83,83,Sevilla 2021 ~ 2024,€17M,€46K,2030
+G. Rulli GK,30,82,82,Ajax 2023 ~ 2026,€20.5M,€18K,1336
+G. Lo Celso CAM LM ST,26,81,82,"Villarreal Jun 30, 2023 On loan",€30.5M,€100K,2162
+L. Ocampos RW LW RM,27,80,80,Sevilla 2019 ~ 2024,€22.5M,€36K,2175
+E. Buendía RM RW CAM,25,80,81,Aston Villa 2021 ~ 2026,€25M,€84K,2136
+J. Ledesma GK,29,80,81,Cádiz 2020 ~ 2025,€16M,€30K,1266
+É. Banega CM CDM CAM,34,80,80,Al Shabab 2020 ~ 2023,€9.5M,€44K,2120
+E. Ávila ST RM LM,28,80,80,Osasuna 2019 ~ 2026,€21.5M,€40K,2026
+I. Fernández CM CAM,32,80,80,River Plate 2023 ~ 2025,€16.5M,€23K,2164
+R. Pereyra CM RM,31,79,79,Udinese 2020 ~ 2023,€14.5M,€22K,2121
+E. Lamela RW CAM,30,79,79,Sevilla 2021 ~ 2024,€17M,€34K,2099
+A. Marchesín GK,34,79,79,Celta de Vigo 2022 ~ 2025,€3M,€21K,1351
+M. Icardi ST,29,79,79,"Galatasaray Jun 30, 2023 On loan",€17.5M,€88K,1906
+S. Driussi CAM CF,26,79,80,Austin 2021 ~ 2024,€20.5M,€12K,1955
+A. Rossi GK,26,79,83,"Al Nassr Jun 30, 2023 On loan",€19M,€16K,1303
+E. Reynoso CAM LM,26,79,80,Minnesota United 2020 ~ 2025,€20.5M,€12K,1987
+Ó. Trejo CAM,34,79,79,Rayo Vallecano 2017 ~ 2024,€8M,€25K,2171
+E. Pérez CDM CM,36,78,78,River Plate 2017 ~ 2023,€2.8M,€13K,2075
+F. Cervi LM RM,28,78,78,Celta de Vigo 2021 ~ 2024,€14M,€27K,1982
+L. Sigali CB,35,78,78,Racing Club 2018 ~ 2024,€3.7M,€14K,1834
+P. Gazzaniga GK,30,78,78,"Girona Jun 30, 2023 On loan",€9.5M,€43K,1456
+M. Rojo CB,32,78,78,Boca Juniors 2021 ~ 2023,€9M,€18K,1969
+G. Simeone ST,26,78,78,"Napoli Jun 30, 2023 On loan",€15.5M,€33K,1978
+L. Robertone CM CAM CDM,25,77,80,Almería 2020 ~ 2028,€14M,€26K,2199
+M. Casco LB RB,34,77,77,River Plate 2015 ~ 2025,€3.9M,€17K,2148
+J. Correa CF ST,27,77,77,Inter 2022 ~ 2025,€11.5M,€60K,1904
+M. Lanzini CAM LM,29,77,77,West Ham United 2016 ~ 2023,€10.5M,€64K,1960
+L. Boyé ST,26,77,78,Elche 2021 ~ 2024,€12.5M,€23K,1949
+L. Martínez Quarta CB,26,77,80,Fiorentina 2020 ~ 2025,€12M,€45K,1973
+M. Ojeda RM LM,23,77,82,Orlando City 2023 ~ 2025,€16M,€9K,1933
+T. Almada CAM CM CF,21,77,87,Atlanta United 2022 ~ 2025,€23.5M,€7K,2032
+V. Castellanos ST,23,77,82,New York City 2019 ~ 2025,€16M,€10K,1972
+M. Vargas LM RM ST,25,77,77,Shanghai Port 2022 ~ 2024,€11.5M,€20K,1952
+N. Domínguez CDM CM,24,77,83,Bologna 2019 ~ 2024,€15.5M,€26K,2025
+J. Burrai GK,31,76,76,Barcelona Guayaquil 2020 ~ 2026,€4M,€1K,1257
+L. Faravelli CM CDM,29,76,76,Independiente del Valle 2020 ~ 2026,€7.5M,€1K,2104
+S. Romero GK,35,76,76,Boca Juniors 2022 ~ 2024,€825K,€8K,1274
+A. Moreno CDM CM,23,76,82,Racing Club 2021 ~ 2025,€11M,€15K,1996
+R. Aliendro CM CDM,31,76,76,River Plate 2022 ~ 2025,€6M,€17K,2101
+M. Moralez CAM CM,35,76,76,Racing Club 2023 ~ 2023,€3.1M,€14K,1908
+J. Palomino CB,32,76,76,Atalanta 2017 ~ 2023,€4.9M,€38K,1630
+F. Vázquez CAM CF,33,76,76,Parma 2021 ~ 2023,€4.7M,€6K,1963
+N. Figal CB RB,28,76,76,Boca Juniors 2022 ~ 2024,€6.5M,€16K,1814
+L. Acosta CAM,28,76,76,Cincinnati 2021 ~ 2023,€7.5M,€10K,1913
+F. Zampedri ST,34,76,76,Universidad Católica 2020 ~ 2023,€3.6M,€13K,1755
+E. Barco LM ST LW,23,76,82,"River Plate Dec 31, 2023 On loan",€12M,€8K,1833
+C. Izquierdoz CB,33,76,76,Sporting Gijón 2022 ~ 2024,€3.6M,€11K,1731
+N. Pérez CB,22,76,82,Udinese 2022 ~ 2027,€11M,€14K,1528
+A. Varela CDM CM,20,76,84,Boca Juniors 2020 ~ 2026,€15.5M,€11K,1967
+G. Escalante CDM CM CAM,29,76,76,"Cádiz Jun 30, 2023 On loan",€6.5M,€40K,1992
+D. Benedetto ST,32,75,75,Boca Juniors 2022 ~ 2024,€4.6M,€18K,1929
+G. Piovi LB CB LWB,27,75,75,Racing Club 2018 ~ 2026,€5.5M,€17K,2067
+G. Bou ST CF,32,75,75,New England 2019 ~ 2023,€4.6M,€10K,1894
+J. Rodríguez CDM CM CB,26,75,78,Estudiantes 2021 ~ 2023,€6.5M,€12K,1860
+R. Rey GK,31,75,75,Independiente 2022 ~ 2024,€3M,€11K,1230
+F. Farías ST CF,19,75,85,Colón 2020 ~ 2023,€12M,€9K,1943
+E. Unsain GK,27,75,78,Defensa y Justicia 2017 ~ 2024,€5.5M,€11K,1407
+E. Vecchio CAM CM,33,75,75,Racing Club 2022 ~ 2024,€3.5M,€18K,1987
+L. Alario ST,29,75,75,Eintracht Frankfurt 2022 ~ 2025,€5.5M,€29K,1800
+N. Tenaglia RB CB,26,75,76,"Deportivo Alavés Jun 30, 2023 On loan",€6M,€14K,1861
+M. Dituro GK,35,75,75,Universidad Católica 2018 ~ 2025,€625K,€6K,1292
+L. Godoy RWB RB,27,75,75,Estudiantes 2020 ~ 2024,€5.5M,€12K,1901
+G. Fernández CM,30,75,75,Boca Juniors 2022 ~ 2024,€5.5M,€16K,1975
+A. Velasco LM LW CAM,19,75,84,Dallas 2022 ~ 2025,€12M,€5K,1952
+L. Giannetti CB,28,75,76,Vélez Sarsfield 2012 ~ 2023,€5.5M,€15K,1667
+E. Mammana CB RB,26,75,76,River Plate 2022 ~ 2023,€6M,€15K,1876
+S. Blanco CAM LM,34,75,75,Portland Timbers 2022 ~ 2023,€2.6M,€9K,1898
+A. Barboza CB,27,75,77,Libertad 2021 ~ 2023,€6M,€900,1843
+M. Suárez ST LW,34,75,75,River Plate 2019 ~ 2023,€2.7M,€18K,1986
+L. Rodríguez ST CF CAM,37,75,75,Central Cordoba SdE 2023 ~ 2023,€1.9M,€12K,2023
+L. Balerdi CB,23,75,81,Olympique de Marseille 2021 ~ 2026,€8M,€26K,1741
+C. Guanca CAM RW ST,29,75,75,Al Shabab 2019 ~ 2025,€5.5M,€33K,1931
+B. Cuesta ST,33,75,75,Melgar 2020 ~ 2024,€3.6M,€1K,1734
+S. Palacios RW LW,30,75,75,Panathinaikos 2021 ~ 2024,€5.5M,€1K,1950
+L. Biglia CDM CM,36,75,75,İstanbul Başakşehir 2022 ~ 2023,€1.1M,€22K,1944
+S. Araujo ST CAM,30,74,74,AEK Athens 2021 ~ 2024,€4.1M,€1K,2004
+P. De Blasis CAM CM,34,74,74,FC Cartagena 2021 ~ 2023,€2M,€9K,2027
+F. Gattoni CB,23,74,80,"San Lorenzo Jun 30, 2023 On loan",€6M,€17K,1870
+E. Aguilera CB,33,74,74,Tigre 2023 ~ 2023,€2M,€11K,1755
+K. Mac Allister CB RB,24,74,77,Argentinos Juniors 2016 ~ 2023,€5M,€10K,1903
+I. Marcone CDM CM,32,74,74,Independiente 2022 ~ 2024,€2.8M,€12K,1905
+P. De la Vega RM LM,21,74,83,Lanús 2018 ~ 2025,€9.5M,€12K,1984
+E. Ponce ST,25,74,77,Elche 2022 ~ 2026,€5.5M,€19K,1842
+S. Ascacíbar CDM CM,25,74,78,Estudiantes 2023 ~ 2026,€5.5M,€11K,1847
+G. Martínez RM CAM LM,29,74,74,Al Nassr 2020 ~ 2024,€4.1M,€34K,1876
+L. Vietto CF CAM LW,28,74,74,Al Hilal 2020 ~ 2023,€4.3M,€36K,1949
+A. Castro LM CAM CM,27,74,74,Tigre 2022 ~ 2023,€4.5M,€12K,2036
+E. Díaz LB CB,26,74,75,River Plate 2023 ~ 2025,€4.5M,€14K,1944
+B. Zuculini CDM CM,29,74,74,River Plate 2018 ~ 2023,€3.6M,€15K,2001
+R. Garro CAM LM,24,74,79,Talleres Córdoba 2022 ~ 2025,€6.5M,€12K,1821
+F. Fattori CDM CM,29,74,74,Huracán 2022 ~ 2025,€3.6M,€12K,1901
+F. Ortega LB,23,74,81,Vélez Sarsfield 2017 ~ 2024,€8M,€11K,2015
+F. Zuqui CM CDM LM,30,74,74,Estudiantes 2017 ~ 2024,€4M,€13K,2013
+F. Angileri LB LWB,28,74,74,Getafe 2022 ~ 2026,€3.8M,€22K,2081
+S. Simón RM CM,20,74,84,River Plate 2021 ~ 2024,€9.5M,€11K,1991
+A. Palavecino CM CAM,25,74,75,River Plate 2021 ~ 2025,€5M,€15K,2031
+B. Merlini LM LW RM,26,74,74,Libertad 2021 ~ 2023,€4.6M,€950,1860
+R. Schunke CB,30,74,74,Independiente del Valle 2018 ~ 2023,€3.5M,€1K,1634
+L. Janson LW LM,27,74,74,Vélez Sarsfield 2019 ~ 2025,€4.5M,€15K,1938
+M. Braida LWB LW RW,25,74,76,San Lorenzo 2022 ~ 2024,€4.9M,€12K,1948
+C. Lema CB,32,74,74,Lanús 2023 ~ 2024,€2.7M,€14K,1685
+D. Barbona RM LM,27,74,74,Defensa y Justicia 2020 ~ 2024,€4.5M,€14K,1820
+L. Miranda CM CDM,28,74,74,Racing Club 2020 ~ 2023,€4.2M,€18K,2022
+G. Herrera GK,30,74,74,Talleres Córdoba 2016 ~ 2026,€2.8M,€11K,1312
+L. Gil CM CDM CAM,31,74,74,Colo-Colo 2021 ~ 2024,€3.5M,€7K,2035
+C. Medina CM,20,74,83,Boca Juniors 2020 ~ 2026,€9M,€11K,1940
+S. Hezze CDM CM,20,74,83,Huracán 2020 ~ 2024,€8.5M,€9K,1869
+L. González Pirez CB,30,74,74,"River Plate Dec 31, 2023 On loan",€3.5M,€8K,1847
+E. Copetti ST RW,26,74,75,Charlotte 2023 ~ 2025,€5M,€9K,1970
+P. Solari RM ST LM,21,74,84,River Plate 2022 ~ 2026,€9.5M,€11K,1783
+L. Morales CB,31,73,73,Gimnasia La Plata 2019 ~ 2023,€2.1M,€13K,1711
+E. Fernández CDM CM,19,73,81,Boca Juniors 2021 ~ 2025,€6M,€7K,1841
+C. Álvarez GK,36,73,73,Real Zaragoza 2017 ~ 2024,€350K,€5K,1198
+M. Torrén CB,33,73,73,Argentinos Juniors 2011 ~ 2023,€1.5M,€11K,1864
+C. Tarragona ST,31,73,73,Gimnasia La Plata 2022 ~ 2023,€2.6M,€16K,1859
+M. Andújar GK,38,73,73,Estudiantes 2016 ~ 2023,€350K,€6K,1233
+L. Díaz ST CF,24,73,77,Independiente del Valle 2022 ~ 2024,€4.4M,€950,1773
+M. Melluso LB LWB,24,73,78,Gimnasia La Plata 2017 ~ 2023,€4.3M,€11K,1819
+S. Colombatto CM CDM,25,73,76,Famalicão 2021 ~ 2023,€4M,€8K,1943
+J. García ST,29,73,73,Huracán 2023 ~ 2023,€3M,€14K,1821
+L. Merolla CB,27,73,74,Huracán 2018 ~ 2023,€3.1M,€11K,1464
+M. Payero CM,23,73,79,"Boca Juniors Jun 30, 2023 On loan",€4.8M,€20K,1963
+M. Díaz GK,36,73,73,Santa Clara 2023 ~ 2024,€350K,€3K,1182
+A. Ruiz CAM CM,28,73,73,Arouca 2022 ~ 2023,€3.1M,€8K,1904
+C. Espinoza RM RW,27,73,73,San Jose Earthquakes 2019 ~ 2023,€3.2M,€8K,1821
+F. Noguera CB,29,73,73,Nacional 2023 ~ 2023,€2.5M,€750,1539
+P. Piatti LM RM,33,73,73,Estudiantes 2022 ~ 2024,€1.9M,€12K,1911
+L. Hoyos GK,33,73,73,Newell's Old Boys 2023 ~ 2025,€1M,€10K,1422
+P. Rodríguez CAM LW LM,32,73,73,Bolívar 2022 ~ 2022,€2.4M,€1K,1797
+G. Hauche RW LW,35,73,73,Racing Club 2022 ~ 2023,€1.2M,€13K,1922
+N. Capaldo CM,23,73,79,Salzburg 2021 ~ 2026,€4.8M,€19K,2017
+J. Paradela LM CM RM,23,73,77,River Plate 2021 ~ 2025,€4.4M,€12K,1899
+L. Acosta LM RM CM,34,73,73,Lanús 2013 ~ 2024,€1.4M,€14K,1959
+N. Bustos ST LM,23,73,78,"Talleres Córdoba Dec 31, 2023 On loan",€4.7M,€71K,1902
+F. Fydriszewski ST,29,73,73,Barcelona Guayaquil 2023 ~ 2024,€3M,€1K,1666
+E. Gómez LB LWB,28,73,73,River Plate 2022 ~ 2025,€2.8M,€13K,2005
+T. Chancalay LW RW,23,73,76,"New England Dec 31, 2023 On loan",€4.2M,€15K,1881
+J. García GK,35,73,73,Boca Juniors 2020 ~ 2024,€350K,€7K,1090
+F. Garcés CB,22,73,78,Colón 2017 ~ 2024,€4.2M,€9K,1637
+M. Boselli ST,37,73,73,Estudiantes 2022 ~ 2023,€1M,€10K,1789
+D. Rodríguez GK,33,73,73,Godoy Cruz 2022 ~ 2023,€1M,€7K,1356
+L. Villalba CB LB LWB,27,73,73,Argentinos Juniors 2021 ~ 2024,€2.8M,€11K,1981
+L. Menossi CM,29,73,73,Tigre 2022 ~ 2023,€3M,€11K,2027
+M. Carabajal CB,25,73,77,Independiente del Valle 2021 ~ 2025,€3.8M,€850,1802
+N. Barrios LW CAM,24,73,76,San Lorenzo 2017 ~ 2024,€4.2M,€12K,1808
+F. Pizzini LM RM CF,28,73,73,Talleres Córdoba 2022 ~ 2025,€3.1M,€14K,1857
+J. Elías CM RM RWB,26,73,74,San Lorenzo 2021 ~ 2023,€3.6M,€12K,1937
+C. Bravo LB,25,73,75,Portland Timbers 2021 ~ 2026,€3.5M,€7K,1837
+D. Mancini RW LW CAM,25,73,74,Panathinaikos 2023 ~ 2026,€3.6M,€800,1990
+T. Belmonte CDM CM,24,73,78,Lanús 2017 ~ 2025,€4.2M,€11K,1961
+M. Catalán CB RB,29,73,73,Talleres Córdoba 2022 ~ 2025,€2.5M,€13K,1906
+B. Rollheiser LM RM ST,22,73,80,Estudiantes 2022 ~ 2025,€6M,€10K,1829
+R. Delgado LWB CB LB,32,73,73,Colón 2020 ~ 2023,€2.1M,€11K,2066
+B. Bianchi CB,33,73,73,Atlético Tucumán 2022 ~ 2024,€1.5M,€10K,1628
+V. Malcorra CAM LM CM,34,73,73,Rosario Central 2022 ~ 2023,€1.4M,€14K,1999
+F. Rasmussen CB LB,30,73,73,Godoy Cruz 2023 ~ 2023,€2.5M,€9K,1693
+A. Solari RM,30,73,73,Celta de Vigo 2021 ~ 2023,€2.9M,€18K,1978
+A. Molinas CAM CM,21,73,81,"Tigre Dec 31, 2023 On loan",€7M,€10K,1812
+L. Díaz ST,30,73,73,Lanús 2023 ~ 2025,€3M,€16K,1780
+M. Benítez LB LM CM,31,72,72,Central Cordoba SdE 2023 ~ 2023,€1.7M,€10K,1991
+J. Sosa CM CDM,37,72,72,Estudiantes 2022 ~ 2024,€750K,€8K,1953
+L. Cháves GK,26,72,73,"Huracán Dec 31, 2023 On loan",€2.1M,€8K,1214
+J. Silva LB LWB CB,28,72,72,"Granada Jun 30, 2023 On loan",€2.1M,€18K,1967
+L. Langoni RW ST,20,72,83,Boca Juniors 2022 ~ 2026,€5M,€10K,1805
+P. Pérez CM CDM,36,72,72,Newell's Old Boys 2020 ~ 2023,€750K,€9K,1981
+N. Tripichio RB CB,26,72,73,Defensa y Justicia 2021 ~ 2026,€2.5M,€11K,1870
+L. Vangioni LB LWB,35,72,72,Newell's Old Boys 2022 ~ 2023,€725K,€8K,1965
+L. Castro CM CAM,33,72,72,Huracán 2023 ~ 2023,€1.4M,€11K,1959
+B. Cufré LB LM LWB,25,72,74,"New York City Dec 31, 2023 On loan",€2.7M,€16K,1969
+F. Fragapane LM CAM,29,72,72,Minnesota United 2021 ~ 2024,€2.3M,€7K,1841
+A. Camargo CDM CM,33,72,72,Cobresal 2022 ~ 2023,€1.2M,€3K,1859
+M. Zárate CAM ST LM,35,72,72,Cosenza 2023 ~ 2023,€950K,€2K,1891
+A. García Basso CB,30,72,72,Independiente del Valle 2023 ~ 2027,€1.9M,€800,1735
+A. Herrera RB RWB,23,72,77,River Plate 2022 ~ 2025,€3.3M,€10K,1892
+F. Quignon CDM CM,29,72,72,Dallas 2021 ~ 2023,€2M,€6K,1888
+C. Pellerano CDM CM,40,72,72,Independiente del Valle 2018 ~ 2023,€0,€550,1832
+H. Barcos ST,38,72,72,Alianza Lima 2021 ~ 2023,€800K,€700,1811
+A. Batalla GK,26,72,75,"San Lorenzo Dec 31, 2023 On loan",€2.4M,€9K,1150
+L. López ST CAM,39,72,72,Sarmiento 2022 ~ 2023,€800K,€8K,1908
+F. Mura RB LB,23,72,76,Racing Club 2022 ~ 2024,€3.1M,€11K,1868
+R. Villagra CDM CM,21,72,79,Talleres Córdoba 2021 ~ 2025,€4.5M,€8K,1796
+A. Veliz ST,18,72,84,Rosario Central 2021 ~ 2025,€5.5M,€6K,1652
+E. Amor CB,27,72,74,Colo-Colo 2021 ~ 2024,€2.5M,€5K,1554
+S. Meza GK,22,72,80,"Sarmiento Jun 30, 2023 On loan",€4.6M,€7K,1102
+C. Alcaraz CAM CM LM,19,72,84,Southampton 2023 ~ 2027,€5.5M,€20K,1915
+F. Altamirano GK,26,72,75,"San Lorenzo Dec 31, 2023 On loan",€2.4M,€9K,1214
+F. Roncaglia CB RB,35,72,72,Boca Juniors 2022 ~ 2023,€625K,€8K,1817
+R. Botta CAM RM CF,32,72,72,Bari 1908 2021 ~ 2023,€1.9M,€4K,1873
+E. Mas LWB LB LM,33,72,72,Estudiantes 2022 ~ 2023,€1.2M,€9K,1938
+F. Ferreyra ST,31,72,72,Argentinos Juniors 2023 ~ 2023,€2M,€11K,1724
+F. Meza CB,32,72,72,Palestino 2023 ~ 2023,€1.5M,€4K,1762
+A. Martín Arias GK,29,72,72,Argentinos Juniors 2022 ~ 2023,€1.6M,€8K,1230
+F. Colidio CAM ST LM,22,72,81,"Tigre Jun 30, 2023 On loan",€5.5M,€32K,1786
+J. Rodríguez CB,28,72,72,"Talleres Córdoba Dec 31, 2023 On loan",€2M,€11K,1722
+F. Bruera ST,23,72,78,Olimpia 2023 ~ 2026,€3.7M,€750,1677
+C. Quintana CB,34,72,72,Rosario Central 2023 ~ 2023,€750K,€12K,1524
+E. Rigoni RM LM ST,29,72,72,Austin 2022 ~ 2024,€2.3M,€7K,1882
+J. Insaurralde CB,37,72,72,Sarmiento 2023 ~ 2023,€425K,€6K,1769
+P. Goltz CB,37,72,72,Colón 2021 ~ 2023,€425K,€7K,1846
+G. Blanco Leschuk ST,30,72,72,SD Eibar 2022 ~ 2024,€2.3M,€9K,1718
+E. Insua CB LB,33,72,72,Racing Club 2022 ~ 2023,€1.1M,€13K,1946
+G. Abrego CM CDM,22,72,79,Godoy Cruz 2021 ~ 2023,€4.7M,€7K,1948
+J. Maidana CB,36,72,72,River Plate 2021 ~ 2023,€425K,€8K,1634
+G. Acosta CM RM,34,72,72,Atlético Tucumán 2019 ~ 2024,€1.1M,€10K,1966
+M. Weigandt RB,22,72,78,Boca Juniors 2018 ~ 2024,€3.5M,€10K,1842
+F. Negri LB LM,27,72,72,Inter Miami 2023 ~ 2024,€2.3M,€6K,1877
+E. Zeballos RW LW,20,72,84,Boca Juniors 2020 ~ 2026,€5.5M,€10K,1726
+L. Blondel RB,25,72,75,Tigre 2021 ~ 2023,€2.9M,€8K,1852
+G. Suso CB,31,72,72,Platense 2022 ~ 2023,€1.6M,€10K,1606
+G. Lezcano RW ST,35,71,71,Cobresal 2022 ~ 2023,€775K,€2K,1756
+F. Pereyra CB,32,71,71,Central Cordoba SdE 2022 ~ 2023,€1.2M,€9K,1611
+L. Vázquez ST,21,71,78,Boca Juniors 2021 ~ 2026,€3.8M,€9K,1760
+I. Rossi CDM CM,28,71,71,Platense 2023 ~ 2023,€1.6M,€9K,1789
+N. Fernández ST LW RW,26,71,72,Defensa y Justicia 2022 ~ 2025,€2.2M,€11K,1868
+S. Sosa CDM CM,23,71,80,Atlanta United 2021 ~ 2024,€3.9M,€5K,1793
+N. Castro CM LM CDM,32,71,71,Platense 2023 ~ 2023,€1.5M,€9K,1918
+L. Mancinelli LW RW ST,32,71,71,Deportivo Cuenca 2020 ~ 2022,€1.5M,€550,1932
+J. Gómez CAM CM,32,71,71,Racing Club 2022 ~ 2025,€1.5M,€12K,1873
+G. Marinelli GK,33,71,71,Tigre 2018 ~ 2023,€600K,€6K,1149
+E. Meza RWB RB,23,71,76,Colón 2020 ~ 2023,€2.6M,€7K,1907
+B. Duarte CB,27,71,72,Deportivo Cuenca 2022 ~ 2023,€1.9M,€500,1653
+L. Magallán CB,28,71,72,Elche 2023 ~ 2023,€1.8M,€12K,1548
+M. Romero ST LW,23,71,76,"Racing Club Dec 31, 2023 On loan",€2.9M,€11K,1723
+J. Buffarini RB,33,71,71,Talleres Córdoba 2022 ~ 2025,€975K,€9K,1937
+C. Corvalán CB LB,33,71,71,Unión Santa Fe 2018 ~ 2024,€900K,€9K,1858
+J. Carranza ST,22,71,77,Philadelphia Union 2022 ~ 2023,€3M,€6K,1799
+R. Ábila ST,32,71,71,Colón 2022 ~ 2024,€1.5M,€10K,1787
+C. Vega CDM CM,28,71,71,Colón 2022 ~ 2024,€1.6M,€9K,1863
+N. Gaitán CAM CM RW,34,71,71,Paços de Ferreira 2022 ~ 2023,€875K,€7K,1795
+A. Aguerre GK,31,71,71,Talleres Córdoba 2022 ~ 2024,€1M,€8K,1195
+L. Morales GK,22,71,79,Lanús 2019 ~ 2024,€3.6M,€7K,1326
+F. Troyansky ST RM LM,25,71,74,"Lanús Jun 30, 2023 On loan",€2.5M,€10K,1880
+E. Olivera CB,32,71,71,Banfield 2023 ~ 2024,€1.2M,€9K,1675
+D. Martínez RB,32,71,71,Rosario Central 2020 ~ 2023,€1.3M,€10K,1931
+M. Bíttolo LM LB LWB,32,71,71,Argentinos Juniors 2022 ~ 2023,€1.5M,€9K,1870
+I. Chicco GK,26,71,73,Colón 2016 ~ 2024,€1.8M,€7K,1139
+E. Bologna GK,40,71,71,Defensa y Justicia 2023 ~ 2023,€210K,€5K,1220
+G. Rojas LB,25,71,74,Racing Club 2023 ~ 2026,€2.3M,€11K,1932
+T. Allende LM ST RM,23,71,74,Godoy Cruz 2022 ~ 2026,€2.6M,€7K,1800
+J. Álvarez RM RW LWB,26,71,71,"Colón Dec 31, 2023 On loan",€2M,€10K,1806
+J. Pereyra LM CM,23,71,77,Atlético Tucumán 2023 ~ 2025,€3M,€7K,1881
+N. Colombo CB,23,71,79,Defensa y Justicia 2021 ~ 2026,€3.9M,€8K,1664
+F. Fazio CB,35,71,71,Salernitana 2022 ~ 2024,€500K,€11K,1472
+J. Ramírez CM LM,29,71,71,Boca Juniors 2021 ~ 2026,€1.8M,€11K,1934
+G. Alanís RM LM LWB,28,71,71,Defensa y Justicia 2022 ~ 2027,€1.9M,€11K,1874
+I. Schor LM CAM ST,21,71,81,Platense 2020 ~ 2023,€4.2M,€7K,1777
+C. Aquino LM ST RM,30,71,71,Cerro Porteño 2020 ~ 2023,€1.8M,€650,1848
+T. Cardona CB,26,71,74,Defensa y Justicia 2021 ~ 2024,€2.2M,€9K,1609
+L. Blanco LWB LM LB,23,71,78,Elche 2022 ~ 2027,€3.6M,€10K,1743
+H. López Muñoz CAM RM LM,21,71,80,"Godoy Cruz Dec 31, 2023 On loan",€4.2M,€8K,1743
+E. Gigliotti ST,35,71,71,Nacional 2022 ~ 2023,€800K,€500,1761
+G. Ávila LB CB,20,71,82,Antwerp 2022 ~ 2027,€3.9M,€9K,1833
+E. Méndez CDM CM,33,71,71,Sarmiento 2022 ~ 2023,€925K,€8K,1725
+L. Villafañez CAM CM LW,30,71,71,APOEL 2022 ~ 2024,€1.8M,€850,1831
+G. Ferrari CB,25,71,76,Godoy Cruz 2018 ~ 2023,€2.5M,€7K,1750
+A. Martegani CAM CM LM,22,71,80,San Lorenzo 2018 ~ 2024,€4.2M,€9K,1830
+V. Salazar RB RWB,29,71,71,Olimpia 2021 ~ 2025,€1.6M,€650,1787
+J. Portillo CDM CB LB,22,71,77,Talleres Córdoba 2023 ~ 2026,€2.8M,€8K,1902
+R. Enrique ST LW,21,71,81,Orlando City 2023 ~ 2025,€4.2M,€5K,1771
+L. Pons ST,32,71,71,Independiente Medellín 2022 ~ 2024,€1.5M,€3K,1640
+M. Perrone CM CDM,19,71,84,Manchester City 2023 ~ 2028,€4.4M,€33K,1795
+J. Komar CB,25,71,76,Rosario Central 2022 ~ 2025,€2.5M,€10K,1588
+E. Bullaude CAM CM RM,21,71,80,Feyenoord 2022 ~ 2027,€4.2M,€6K,1729
+M. Soulé RM RW,19,71,85,Juventus 2021 ~ 2026,€4.4M,€28K,1783
+J. Broun GK,36,71,71,Rosario Central 2021 ~ 2023,€210K,€5K,1152
+M. Hoyos ST CAM CF,30,71,71,Independiente del Valle 2023 ~ 2025,€1.8M,€850,1855
+C. Ortiz CAM LM LW,29,71,71,Barcelona Guayaquil 2021 ~ 2024,€1.8M,€900,1748
+T. Pozzo RM LM ST,21,71,78,Independiente 2020 ~ 2025,€3.8M,€7K,1770
+N. Domingo CDM CM CB,37,71,71,Patronato 2023 ~ 2023,€375K,€7K,1860
+F. González Metilli RM LM CAM,25,71,72,Argentinos Juniors 2021 ~ 2024,€2.2M,€9K,1753
+N. Orsini ST,27,71,71,Boca Juniors 2021 ~ 2024,€2M,€12K,1739
+F. Carrizo CAM LM ST,31,71,71,Cerro Porteño 2022 ~ 2024,€1.6M,€650,1884
+C. Ansaldi LM LB,35,71,71,Parma 2022 ~ 2023,€775K,€3K,1935
+W. Bou ST CAM LW,28,71,71,Vélez Sarsfield 2022 ~ 2025,€1.9M,€11K,1967
+J. Nardoni CM CDM,19,70,80,Racing Club 2023 ~ 2027,€3.4M,€6K,1871
+G. González LM LW LWB,21,70,77,Orlando City 2022 ~ 2025,€3.2M,€4K,1803
+J. Devecchi GK,26,70,72,"Sarmiento Dec 31, 2023 On loan",€1.5M,€6K,1176
+J. Soraire CM,33,70,70,Central Cordoba SdE 2021 ~ 2024,€975K,€8K,1964
+N. Garayalde CM CAM,22,70,75,Vélez Sarsfield 2020 ~ 2024,€2.4M,€8K,1828
+M. Brizuela CB LB,25,70,73,Vélez Sarsfield 2019 ~ 2025,€1.9M,€8K,1650
+D. Pérez LB,33,70,70,Independiente 2022 ~ 2023,€825K,€8K,1867
+D. Braghieri CB,35,70,70,Lanús 2021 ~ 2023,€425K,€6K,1630
+P. Barrios CB RB,32,70,70,Godoy Cruz 2022 ~ 2024,€1M,€6K,1762
+V. Taborda CAM CM ST,21,70,81,"Platense Dec 31, 2023 On loan",€3.6M,€7K,1816
+M. Vera CDM CM,26,70,71,"Argentinos Juniors Dec 31, 2023 On loan",€1.7M,€5K,1775
+G. Castellani CAM CM CDM,34,70,70,Defensa y Justicia 2023 ~ 2023,€750K,€9K,1906
+H. De La Fuente RB,25,70,73,"Atlético Tucumán Dec 31, 2023 On loan",€1.9M,€5K,1908
+A. Medina GK,35,70,70,Arsenal de Sarandi 2021 ~ 2024,€180K,€3K,1019
+R. Ruiz Rodríguez ST LM,22,70,79,Atlético Tucumán 2019 ~ 2024,€3.6M,€7K,1799
+H. Orzán CM CDM CB,34,70,70,Melgar 2021 ~ 2022,€725K,€550,1954
+L. Jara RB,31,70,70,Vélez Sarsfield 2021 ~ 2024,€1.2M,€8K,1822
+C. Auzqui CAM RM,31,70,70,Ferencváros 2022 ~ 2024,€1.3M,€650,1966
+F. Di Santo ST,33,70,70,Universidad Católica 2023 ~ 2024,€1M,€7K,1785
+G. Carrillo ST,31,70,70,Estudiantes 2023 ~ 2024,€1.3M,€9K,1713
+Y. Cabral CB,30,70,70,Atlético Tucumán 2019 ~ 2023,€1.3M,€7K,1413
+N. Breitenbruch RB CB RWB,26,70,71,"Arsenal de Sarandi Jun 30, 2023 On loan",€1.7M,€6K,1756
+Z. Romero CB LB,22,70,76,Estudiantes 2023 ~ 2026,€2.3M,€6K,1600
+J. Galván CB CDM,30,70,70,"Racing Club Dec 31, 2023 On loan",€1.3M,€7K,1828
+R. Tesuri RM RWB,26,70,70,Atlético Tucumán 2021 ~ 2025,€1.7M,€7K,1787
+J. Fernández CDM CM,27,70,71,"Lanús Dec 31, 2023 On loan",€1.6M,€8K,1800
+R. Melo CDM CM,26,70,71,Deportivo Cuenca 2022 ~ 2025,€1.7M,€500,1797
+M. Meli CM RM,30,70,70,Liverpool 2023 ~ 2023,€1.5M,€550,1910
+G. Servio GK,30,70,70,Rosario Central 2022 ~ 2023,€1.1M,€7K,1240
+P. Ruiz CDM CM,23,70,77,Real Salt Lake 2018 ~ 2025,€3M,€4K,1815
+T. Guidara RB,26,70,71,Vélez Sarsfield 2019 ~ 2024,€1.7M,€8K,1750
+A. Bernabei LB,21,70,80,Celtic 2022 ~ 2027,€3.4M,€18K,1974
+R. Centurión LM CAM ST,29,70,70,"Barracas Central Dec 31, 2023 On loan",€1.6M,€9K,1811
+M. Pérez Guedes CM CAM RM,30,70,70,Universitario 2023 ~ 2023,€1.5M,€750,1937
+N. Fernández LWB LM,22,70,77,Elche 2022 ~ 2027,€3.1M,€9K,1910
+G. Hernández CB,24,70,76,San Lorenzo 2022 ~ 2024,€2.3M,€7K,1606
+J. Sand ST,41,70,70,Lanús 2019 ~ 2023,€0,€8K,1710
+L. Sosa CB LB,28,70,71,Barcelona Guayaquil 2022 ~ 2023,€1.5M,€700,1636
+A. Soto LB CB,28,70,70,Defensa y Justicia 2023 ~ 2025,€1.4M,€9K,1816
+S. García CB LB,33,70,70,Alianza Lima 2023 ~ 2023,€750K,€600,1765
+S. Moyano GK,31,70,70,Unión Santa Fe 2019 ~ 2023,€850K,€6K,1287
+L. Colitto RM LM,28,70,70,Barracas Central 2023 ~ 2023,€1.6M,€7K,1854
+E. Insua LB,31,70,70,Banfield 2023 ~ 2023,€1.2M,€8K,1782
+C. Villalba CDM CM,23,70,75,Emelec 2018 ~ 2024,€2.2M,€500,1779
+A. Giay RWB RM CM,18,70,83,San Lorenzo 2020 ~ 2025,€3.5M,€2K,1804
+B. Blasi RB CB RWB,26,70,70,Central Cordoba SdE 2023 ~ 2023,€1.6M,€7K,1721
+F. Sambueza RM CAM LM,33,70,70,Santa Fe 2023 ~ 2023,€1M,€2K,1750
+F. Lanzillotta GK,29,70,70,Argentinos Juniors 2019 ~ 2023,€1.1M,€6K,1178
+G. Escobar LB LWB,25,70,73,UD Ibiza 2021 ~ 2023,€1.9M,€5K,1856
+I. Pillud RB,36,70,70,Racing Club 2010 ~ 2023,€350K,€7K,1880
+A. Donatti CB,35,70,70,Sarmiento 2023 ~ 2023,€425K,€5K,1626
+D. Churín ST,32,70,70,Cerro Porteño 2023 ~ 2024,€1.3M,€650,1578
+L. Gondou ST,21,70,80,Sarmiento 2021 ~ 2025,€3.6M,€6K,1690
+N. Oroz CM LM RM,28,70,70,Racing Club 2014 ~ 2025,€1.6M,€11K,1891
+I. Aliseda LM ST CF,22,70,76,Lugano 2022 ~ 2025,€2.6M,€6K,1738
+B. Amione CB,20,70,83,"Sampdoria Jun 30, 2023 On loan",€3.6M,€10K,1586
+G. Enrique RB RM,22,70,78,Gimnasia La Plata 2021 ~ 2025,€3.4M,€8K,1701
+N. Ferreyra CB,29,70,70,Bolívar 2021 ~ 2024,€1.3M,€700,1574
+L. Chichizola GK,32,70,70,Parma 2022 ~ 2024,€800K,€2K,1136
+G. Peruzzi RB RWB,30,70,70,Alianza Lima 2022 ~ 2027,€1.4M,€600,1816
+I. Pussetto ST,26,70,71,"Sampdoria Jun 30, 2023 On loan",€1.9M,€25K,1677
+G. Gómez GK,26,70,72,"Vélez Sarsfield Dec 31, 2023 On loan",€1.5M,€8K,1173
+J. Infante LB LWB,26,70,70,Platense 2014 ~ 2023,€1.6M,€7K,1778
+N. Valentini CB,21,70,79,Boca Juniors 2019 ~ 2024,€3.3M,€6K,1638
+G. Sosa ST,33,70,70,Audax Italiano 2023 ~ 2023,€1M,€5K,1575
+J. Acevedo RM LM,25,70,70,Huracán 2021 ~ 2024,€1.8M,€8K,1855
+K. Gutiérrez CDM CM,25,70,75,Defensa y Justicia 2021 ~ 2026,€2.1M,€8K,1932
+L. Requena GK,34,70,70,Cobresal 2019 ~ 2023,€275K,€2K,1175
+A. Werner GK,26,70,74,Elche 2021 ~ 2023,€1.7M,€8K,1186
+Á. Barreal LM LWB LW,21,70,78,Cincinnati 2020 ~ 2022,€3.6M,€4K,1812
+L. Pratto ST CAM,34,70,70,Vélez Sarsfield 2021 ~ 2023,€775K,€10K,1880
+M. Kranevitter CDM CM,29,70,70,River Plate 2023 ~ 2025,€1.4M,€9K,1801
+F. Girotti ST,23,70,77,Talleres Córdoba 2022 ~ 2025,€3.2M,€9K,1725
+G. Togni LM LWB LW,24,70,71,"Defensa y Justicia Dec 31, 2023 On loan",€2M,€7K,1907
+L. Arce RB RWB,24,70,73,Godoy Cruz 2022 ~ 2023,€2M,€5K,1750
+G. Burdisso CB,33,70,70,Universidad Católica 2023 ~ 2023,€750K,€6K,1538
+W. Montoya RM CM CDM,28,70,70,Rosario Central 2018 ~ 2023,€1.6M,€10K,1873
+L. Gamba ST LM LW,35,70,70,Central Cordoba SdE 2023 ~ 2023,€675K,€7K,1804
+B. Luciatti CB LB,29,70,70,Tigre 2020 ~ 2023,€1.3M,€7K,1674
+D. Musto CDM CM,35,70,70,FC Cartagena 2022 ~ 2023,€450K,€4K,1696
+S. Pierotti RM CM CF,21,70,77,Colón 2019 ~ 2024,€3.2M,€6K,1890
+J. Laso CB RB,31,70,70,Independiente 2021 ~ 2024,€1.1M,€8K,1654
+L. Lollo CB,35,70,70,Estudiantes 2022 ~ 2023,€425K,€5K,1493
+E. Centurión GK,25,70,74,River Plate 2018 ~ 2024,€1.7M,€7K,1152
+F. Mater RB RM CM,23,70,76,"Barracas Central Dec 31, 2023 On loan",€2.4M,€6K,1798
+M. Salas ST RM,24,70,75,Palestino 2022 ~ 2023,€2.4M,€3K,1735
+S. Cáseres CDM CM,25,70,71,Vélez Sarsfield 2022 ~ 2024,€1.7M,€8K,1823
+J. Sforza CDM CM,20,70,84,Newell's Old Boys 2020 ~ 2024,€3.6M,€6K,1875
+N. Pasquini LB LM CM,31,70,70,Talleres Córdoba 2023 ~ 2023,€1.2M,€8K,1927
+C. Menéndez ST,34,70,70,Atlético Tucumán 2021 ~ 2023,€775K,€8K,1774
+F. Calderón CB,24,70,75,Unión Santa Fe 2019 ~ 2023,€2.2M,€6K,1599
+S. Prediger CDM CM,35,70,70,Tigre 2018 ~ 2023,€450K,€5K,1720
+W. Mazzantti RM,25,69,69,Huracán 2023 ~ 2023,€1.5M,€7K,1644
+M. Valenzuela LB LM LWB,23,69,75,Lugano 2022 ~ 2025,€2.1M,€5K,1815
+J. Méndez CDM CM,25,69,70,Vélez Sarsfield 2023 ~ 2025,€1.5M,€7K,1913
+T. Martínez CM CAM RM,27,69,69,Melgar 2023 ~ 2023,€1.5M,€500,1846
+F. Moyano CM CDM,24,69,72,Argentinos Juniors 2021 ~ 2025,€1.9M,€6K,1838
+T. Badaloni ST,22,69,76,"Tigre Dec 31, 2023 On loan",€2.9M,€5K,1619
+G. Ortíz CB,29,69,69,"Newell's Old Boys Dec 31, 2023 On loan",€1.2M,€5K,1604
+J. Gauto LM RM ST,18,69,83,Huracán 2022 ~ 2025,€3.2M,€2K,1669
+M. Garay RB RM,23,69,75,Tigre 2023 ~ 2025,€2.1M,€5K,1665
+Á. González RM RW ST,28,69,69,LDU Quito 2019 ~ 2023,€1.4M,€550,1790
+B. Sepúlveda ST,29,69,69,Barracas Central 2017 ~ 2023,€1.4M,€6K,1622
+G. Hachen CM CDM,31,69,69,Audax Italiano 2023 ~ 2023,€1.1M,€3K,1908
+M. Giménez ST,25,69,71,Banfield 2022 ~ 2025,€1.8M,€8K,1676
+E. Kalinski CDM CM,35,69,69,Central Cordoba SdE 2022 ~ 2023,€400K,€5K,1840
+A. Osorio ST CAM,20,69,78,Vélez Sarsfield 2022 ~ 2024,€3.1M,€6K,1790
+G. Gudiño RM LM,30,69,69,Huracán 2022 ~ 2023,€1.3M,€7K,1852
+A. Bouzat RW LW LWB,28,69,69,Colo-Colo 2017 ~ 2024,€1.4M,€4K,1871
+F. Navarro CDM CM,22,69,79,Chicago Fire 2021 ~ 2025,€3M,€3K,1778
+M. Ledesma GK,25,69,74,"Central Cordoba SdE Dec 31, 2023 On loan",€1.6M,€5K,1184
+E. Muñoz CB,31,69,69,Estudiantes 2022 ~ 2023,€950K,€6K,1487
+L. Aued CM CDM,35,69,69,Unión Santa Fe 2023 ~ 2023,€550K,€5K,1874
+D. Carando ST,33,69,69,Cienciano 2023 ~ 2025,€900K,€550,1548
+F. Rodríguez CB,22,69,74,LDU Quito 2021 ~ 2024,€1.9M,€500,1510
+G. Verón ST CF CAM,21,69,76,Argentinos Juniors 2020 ~ 2026,€2.9M,€6K,1694
+R. Márquez LM RM LW,20,69,75,Independiente 2021 ~ 2025,€2.2M,€5K,1698
+B. Leyes CM CDM,20,69,78,Godoy Cruz 2021 ~ 2025,€3M,€4K,1796
+J. Benítez LW,30,69,69,Palestino 2020 ~ 2024,€1.3M,€3K,1731
+A. Chávez ST,31,69,69,Banfield 2022 ~ 2023,€1.2M,€8K,1854
+R. Macagno GK,25,69,73,"Platense Dec 31, 2023 On loan",€1.5M,€5K,1022
+M. Pittón CM RM CDM,27,69,69,"Central Cordoba SdE Dec 31, 2023 On loan",€1.5M,€8K,1885
+F. Pérez CM CDM RM,22,69,74,Lanús 2019 ~ 2024,€2.1M,€7K,1862
+L. Alzugaray RM ST CM,32,69,69,LDU Quito 2023 ~ 2023,€1.1M,€550,1811
+E. Triverio ST,33,69,69,The Strongest 2023 ~ 2027,€900K,€750,1690
+I. Tapia CAM CM,23,69,76,Barracas Central 2015 ~ 2023,€2.8M,€5K,1859
+C. Rius RM,33,69,69,Central Cordoba SdE 2023 ~ 2023,€875K,€7K,1852
+J. Díaz LB CB,24,69,74,"Barracas Central Dec 31, 2023 On loan",€2M,€5K,1649
+J. Toledo ST,36,69,69,Sarmiento 2022 ~ 2023,€475K,€5K,1720
+R. Lozano RB,24,69,73,Platense 2020 ~ 2025,€1.9M,€6K,1700
+J. Garro ST RM RW,29,69,69,Huracán 2018 ~ 2023,€1.4M,€8K,1667
+E. Cerutti RW LW RM,30,69,69,San Lorenzo 2019 ~ 2023,€1.3M,€8K,1781
+N. Colazo LB LM,31,69,69,Gimnasia La Plata 2021 ~ 2023,€1M,€8K,1919
+R. Ríos CM CDM,26,69,70,Guaraní 2023 ~ 2024,€1.6M,€500,1816
+J. Novillo CB,24,69,72,Huracán 2019 ~ 2023,€1.7M,€6K,1531
+F. Ferrari LB,30,69,69,APOEL 2022 ~ 2024,€1.2M,€550,1719
+J. Bauman ST,31,69,69,Barcelona Guayaquil 2023 ~ 2023,€1.2M,€700,1677
+M. Pellegrini LM RM,22,69,78,New York City 2022 ~ 2022,€3.1M,€4K,1770
+A. Cabrera CDM CM,29,69,69,Banfield 2020 ~ 2024,€1.2M,€7K,1746
+M. Comba RM CM,28,69,69,Gimnasia La Plata 2018 ~ 2023,€1.4M,€9K,1706
+C. Ferreira CM CAM,22,69,75,"Newell's Old Boys Dec 31, 2023 On loan",€2.2M,€7K,1967
+L. Romero RW,17,69,84,Lazio 2021 ~ 2023,€3.2M,€4K,1837
+E. Isnaldo LM,28,69,69,The Strongest 2023 ~ 2023,€1.4M,€700,1825
+G. Sauro CB,32,69,69,Huracán 2023 ~ 2023,€900K,€6K,1476
+N. Castro CAM CM,21,69,76,Genk 2022 ~ 2027,€2.8M,€6K,1733
+V. Cabrera CB,29,69,69,Tigre 2021 ~ 2023,€1.2M,€6K,1634
+Y. Asad LM CM CAM,27,69,69,DC United 2023 ~ 2023,€1.5M,€4K,1914
+C. Bordacahar RW ST RM,30,69,69,Melgar 2021 ~ 2022,€1.3M,€550,1696
+A. Cardozo CM CDM,25,69,72,Tigre 2016 ~ 2024,€1.8M,€6K,1847
+F. Tobio CB,32,69,69,Huracán 2022 ~ 2023,€900K,€6K,1512
+G. Canto CB LB,28,69,69,"Central Cordoba SdE Dec 31, 2023 On loan",€1.2M,€5K,1611
+F. Vera RB RWB,24,69,74,Unión Santa Fe 2020 ~ 2023,€2M,€6K,1738
+K. Zenón LM LW LWB,20,69,75,Unión Santa Fe 2020 ~ 2025,€2.2M,€5K,1822
+J. Romagnoli LW RW LM,26,69,69,Cienciano 2023 ~ 2023,€1.5M,€550,1842
+L. Acosta GK,27,69,72,Lanús 2020 ~ 2023,€1.4M,€6K,1229
+C. Rigamonti GK,35,69,69,Palestino 2023 ~ 2023,€150K,€1K,1138
+I. Gómez CM CDM,25,69,72,"Newell's Old Boys Dec 31, 2023 On loan",€1.8M,€6K,1861
+G. Simeone ST LM,19,69,81,"Real Zaragoza Jun 30, 2023 On loan",€3.3M,€13K,1742
+M. Luna Diale ST CM CAM,23,69,74,Unión Santa Fe 2020 ~ 2025,€2.1M,€7K,1913
+N. Cordero ST,23,69,75,Huracán 2016 ~ 2024,€2.2M,€7K,1766
+T. Conechny LM LW,24,69,72,Godoy Cruz 2023 ~ 2025,€1.9M,€5K,1713
+J. Sánchez Miño LB LM CM,32,69,69,Lanús 2023 ~ 2023,€975K,€8K,1937
+N. Reniero ST,27,69,69,Racing Club 2019 ~ 2023,€1.5M,€10K,1751
+M. Pisano CAM RM CM,30,69,69,Palmaflor del Trópico 2023 ~ 2023,€1.3M,€500,1785
+A. Costa LB LWB CB,22,69,73,Independiente 2020 ~ 2025,€1.9M,€6K,1743
+T. Casasola RM RWB RB,26,69,69,Perugia 2022 ~ 2023,€1.5M,€2K,1867
+G. Prestianni LW RM RW,16,69,85,Vélez Sarsfield 2022 ~ 2024,€3.5M,€2K,1632
+M. Martínez CDM CM CB,29,69,69,LDU Quito 2023 ~ 2023,€1.2M,€500,1835
+D. González CM,34,69,69,Boca Juniors 2020 ~ 2023,€650K,€8K,1867
+E. Roldán CM CDM,21,69,78,Unión Santa Fe 2022 ~ 2025,€3.1M,€5K,1873
+E. Piovi CDM CM,29,69,69,LDU Quito 2023 ~ 2026,€1.2M,€500,1975
+G. Bettini RB RWB,28,68,68,Sarmiento 2022 ~ 2023,€1.1M,€5K,1676
+J. Correa LM RM LW,29,68,68,Oriente Petrolero 2022 ~ 2023,€1.2M,€500,1728
+G. Campi CB,31,68,68,San Lorenzo 2022 ~ 2023,€825K,€6K,1601
+M. Tagliamonte GK,24,68,72,Racing Club 2021 ~ 2026,€1.4M,€5K,1149
+B. Farioli RM CAM LM,24,68,69,"Central Cordoba SdE Dec 31, 2023 On loan",€1.5M,€5K,1706
+A. Mulet CM CDM,22,68,75,"Independiente Dec 31, 2023 On loan",€2.4M,€6K,1825
+G. Gil Romero CDM CM,29,68,68,Guaraní 2023 ~ 2023,€1M,€500,1768
+Marcos Mauro CB,31,68,68,UD Ibiza 2023 ~ 2023,€825K,€3K,1579
+E. Herrera ST,35,68,68,Universitario 2023 ~ 2023,€525K,€500,1611
+E. Coronel RB,25,68,71,Banfield 2019 ~ 2024,€1.5M,€6K,1611
+A. Maldonado CB,24,68,75,Banfield 2016 ~ 2024,€2.2M,€5K,1450
+L. Sánchez LM LWB LB,28,68,68,Argentinos Juniors 2022 ~ 2023,€1.2M,€6K,1885
+M. Tanlongo CDM CM,18,68,80,Sporting CP 2023 ~ 2027,€2.6M,€1K,1827
+A. Farías CM CDM,34,68,68,Palestino 2015 ~ 2024,€550K,€2K,1848
+M. Di Benedetto CB,29,68,68,Universitario 2023 ~ 2023,€1M,€500,1520
+F. Feuillassier LM RM,24,68,71,"FC Cartagena Jun 30, 2023 On loan",€1.6M,€4K,1639
+M. Rodríguez RB RM,34,68,68,Barracas Central 2015 ~ 2023,€450K,€4K,1723
+E. Cabrera CM CAM,19,68,80,Vélez Sarsfield 2022 ~ 2025,€2.9M,€4K,1817
+R. Sordo LW LM RW,22,68,76,Newell's Old Boys 2020 ~ 2023,€2.7M,€6K,1689
+C. Arce CDM CM,31,68,68,Barracas Central 2009 ~ 2023,€850K,€4K,1863
+A. Maciel CB,25,68,73,Banfield 2022 ~ 2024,€1.6M,€6K,1446
+N. Stefanelli CAM LM ST,27,68,68,Inter Miami 2023 ~ 2024,€1.3M,€4K,1839
+J. Andrada CM CDM,27,68,68,Godoy Cruz 2016 ~ 2023,€1.3M,€5K,1774
+B. Martínez RM RW LM,22,68,74,Independiente 2019 ~ 2023,€1.9M,€5K,1780
+G. Hauche RM LM,29,68,68,General Caballero JLM 2021 ~ 2023,€1.2M,€500,1785
+M. Orihuela LB LWB LM,30,68,68,Atlético Tucumán 2021 ~ 2024,€1M,€5K,1724
+G. Benedetti LWB LB,21,68,77,Estudiantes 2021 ~ 2025,€2.6M,€4K,1701
+G. Mainero RM RW,27,68,68,"Sarmiento Dec 31, 2023 On loan",€1.3M,€6K,1814
+V. Gómez CB LB,19,68,79,Vélez Sarsfield 2022 ~ 2024,€2.4M,€3K,1654
+J. Bauza CAM LM RM,26,68,69,U Craiova 1948 2021 ~ 2025,€1.4M,€6K,1776
+S. Prieto LB,29,68,68,Tigre 2020 ~ 2023,€1.1M,€5K,1660
+A. Sández LB,21,68,75,Boca Juniors 2020 ~ 2026,€2.3M,€5K,1722
+B. Salvareschi CB,23,68,75,Godoy Cruz 2023 ~ 2023,€2.2M,€4K,1545
+L. Sequeira RM ST LM,27,68,68,Real Oviedo 2023 ~ 2024,€1.3M,€5K,1690
+E. Iñíguez RB LB,25,68,71,Aldosivi 2018 ~ 2025,€1.5M,€5K,1593
+S. Núñez CB,22,68,78,Estudiantes 2021 ~ 2025,€2.5M,€5K,1512
+D. Ayala CDM CM,19,68,77,Portland Timbers 2022 ~ 2025,€2.5M,€2K,1713
+E. Ramírez ST CAM,25,68,71,Gimnasia La Plata 2018 ~ 2024,€1.6M,€7K,1735
+G. Guiffrey CB LB,24,68,74,Gimnasia La Plata 2018 ~ 2023,€1.7M,€6K,1617
+M. Quiroga ST,32,68,68,Platense 2023 ~ 2023,€975K,€6K,1672
+F. Mac Allister CDM CM,26,68,70,"Rosario Central Dec 31, 2023 On loan",€1.3M,€6K,1763
+F. Escobar RB LB,27,68,68,Houston Dynamo 2023 ~ 2023,€1.2M,€3K,1717
+M. Esquivel CM RM LM,23,68,75,Lanús 2019 ~ 2023,€2.4M,€6K,1913
+Á. Martino LB LM RM,24,68,73,Newell's Old Boys 2023 ~ 2025,€1.7M,€5K,1831
+S. Medina LM RM,22,68,77,Tigre 2023 ~ 2026,€2.7M,€5K,1799
+L. Gómez RB RM LM,26,68,68,"Independiente Dec 31, 2023 On loan",€1.2M,€5K,1850
+J. Torres CF,25,68,71,Philadelphia Union 2023 ~ 2024,€1.6M,€4K,1662
+L. Rodríguez LB LWB,28,68,68,Rosario Central 2023 ~ 2023,€1.1M,€7K,1874
+F. Álvarez CB,22,68,77,"Barracas Central Dec 31, 2023 On loan",€2.5M,€5K,1521
+L. Picco CDM CM,23,68,72,Colón 2022 ~ 2025,€1.6M,€5K,1713
+M. Ramírez LM RW LW,23,68,71,Godoy Cruz 2021 ~ 2024,€1.6M,€4K,1673
+B. Pittón LB LWB CB,29,68,68,Newell's Old Boys 2023 ~ 2023,€1.1M,€6K,1893
+N. Peranic GK,37,68,68,Universidad Católica 2022 ~ 2024,€130K,€2K,980
+L. Suárez CB LB,27,68,69,Talleres Córdoba 2018 ~ 2024,€1.2M,€6K,1565
+A. Meli LB LWB LM,21,68,75,Godoy Cruz 2022 ~ 2024,€2.3M,€3K,1729
+B. Calderara LB LM,24,68,73,"Barracas Central Dec 31, 2023 On loan",€1.7M,€5K,1600
+O. Piris CB,33,68,68,Unión Santa Fe 2023 ~ 2023,€575K,€5K,1672
+A. Gaich ST,23,68,74,Hellas Verona 2020 ~ 2025,€1.9M,€10K,1672
+G. Goñi CB,23,68,75,"Central Cordoba SdE Dec 31, 2023 On loan",€2.2M,€4K,1483
+M. Giménez ST LW,23,68,74,Independiente 2023 ~ 2026,€1.9M,€6K,1689
+V. Barco LB,17,68,84,Boca Juniors 2020 ~ 2025,€2.9M,€500,1800
+M. Coronel ST LM,23,68,75,"Atlético Tucumán Dec 31, 2023 On loan",€2.4M,€6K,1764
+G. Benavídez RB RWB CB,26,68,69,Talleres Córdoba 2022 ~ 2025,€1.3M,€6K,1615
+J. Cristaldo ST LW CF,33,68,68,Oriente Petrolero 2023 ~ 2023,€775K,€500,1748
+L. Melano RM RW ST,29,68,68,Sarmiento 2023 ~ 2023,€1.2M,€6K,1703
+H. Fertoli LW RW CAM,27,68,68,Racing Club 2020 ~ 2025,€1.3M,€8K,1784
+E. Remedi CDM CM,27,68,68,Banfield 2023 ~ 2023,€1.1M,€6K,1720
+N. Rinaldi CM CDM,31,68,68,Deportivo Cuenca 2023 ~ 2023,€1M,€500,1883
+K. Ortiz CDM CM,21,68,79,Rosario Central 2019 ~ 2024,€2.6M,€5K,1739
+L. Galeano CB,30,68,68,Melgar 2022 ~ 2022,€1M,€500,1632
+N. Campisi GK,25,68,71,Huracán 2021 ~ 2023,€1.2M,€4K,996
+B. Aguirre RB LB RM,21,68,76,Lanús 2020 ~ 2025,€2.6M,€5K,1699
+F. Sánchez RB RWB,32,68,68,Panathinaikos 2020 ~ 2023,€825K,€500,1818
+J. Pereyra Díaz CF RW ST,31,67,67,Mumbai City 2022 ~ 2023,€850K,€1K,1767
+T. Sultani GK,24,67,71,Arsenal de Sarandi 2023 ~ 2024,€1.2M,€2K,1111
+F. Mansilla CB,23,67,75,Newell's Old Boys 2021 ~ 2023,€2.1M,€4K,1476
+A. Leguizamón CB,30,67,67,Emelec 2019 ~ 2024,€825K,€500,1540
+F. Álvarez CAM RM LM,29,67,67,Talleres Córdoba 2020 ~ 2023,€1M,€6K,1725
+M. García CB CM CDM,23,67,76,Sarmiento 2020 ~ 2023,€2.1M,€4K,1665
+A. Dattola CB,23,67,72,Barracas Central 2023 ~ 2023,€1.4M,€3K,1602
+R. Becerra ST,34,67,67,Deportivo Cuenca 2019 ~ 2027,€500K,€500,1510
+M. Caire RB CB,33,67,67,Oriente Petrolero 2021 ~ 2023,€525K,€500,1772
+J. Aude LB CDM,19,67,81,LA Galaxy 2023 ~ 2027,€2.3M,€1K,1722
+B. Rivero CDM CM,26,67,70,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.2M,€5K,1691
+G. Infantino RM LM,19,67,80,Rosario Central 2020 ~ 2024,€2.4M,€3K,1702
+J. Malatini RB CB,21,67,74,"Defensa y Justicia Dec 31, 2023 On loan",€2M,€4K,1644
+V. Burgoa CAM LM,21,67,74,"Huracán Dec 31, 2023 On loan",€2.1M,€3K,1795
+M. Laba CDM CM,30,67,67,Central Cordoba SdE 2022 ~ 2023,€850K,€5K,1801
+C. Álvarez CAM CM,29,67,67,Oriente Petrolero 2023 ~ 2023,€1M,€500,1815
+F. Zapiola LM CM,21,67,79,Estudiantes 2021 ~ 2024,€2.5M,€4K,1724
+G. Asís RB RWB CM,26,67,67,Platense 2022 ~ 2023,€1M,€5K,1750
+J. Fernández RW LW RM,18,67,79,Vélez Sarsfield 2022 ~ 2025,€2.4M,€2K,1676
+M. Palacios CAM CM,20,67,78,Al Ain 2022 ~ 2026,€2.2M,€500,1735
+I. Protti RM CAM LM,27,67,67,Tigre 2020 ~ 2024,€1.1M,€5K,1621
+N. Estévez CM CDM,26,67,68,Parma 2022 ~ 2026,€1.2M,€2K,1906
+N. Leguizamón ST,27,67,67,Central Cordoba SdE 2022 ~ 2023,€1.1M,€6K,1723
+M. Moya LW CAM CM,24,67,70,Colo-Colo 2023 ~ 2025,€1.4M,€3K,1721
+M. Galarza CDM CM,20,67,77,Genk 2022 ~ 2026,€2.1M,€4K,1838
+M. Curado CB,27,67,67,Perugia 2022 ~ 2022,€950K,€2K,1473
+J. Cacciabue CDM CM RM,24,67,71,"Platense Dec 31, 2023 On loan",€1.3M,€4K,1780
+G. Maroni CAM LW,23,67,71,"San Lorenzo Dec 30, 2023 On loan",€1.5M,€5K,1678
+L. Heredia ST LM,26,67,68,"Argentinos Juniors Dec 31, 2023 On loan",€1.2M,€5K,1729
+L. González CB LB,28,67,68,"Argentinos Juniors Dec 31, 2023 On loan",€975K,€4K,1780
+M. Di Cesare CB,20,67,77,Argentinos Juniors 2020 ~ 2024,€2.1M,€3K,1460
+M. Godoy LM RM ST,20,67,79,Estudiantes 2023 ~ 2025,€2.5M,€4K,1655
+F. Gerometta RB RWB,22,67,72,Unión Santa Fe 2019 ~ 2024,€1.5M,€4K,1729
+C. Beltrán CB CDM,31,67,67,Cienciano 2023 ~ 2026,€700K,€500,1529
+L. Valenti CB LB,23,67,72,Parma 2021 ~ 2025,€1.4M,€2K,1726
+L. Giaccone RM LM,21,67,79,Rosario Central 2020 ~ 2023,€2.5M,€5K,1620
+D. Juárez LM RM CAM,20,67,76,Unión Santa Fe 2020 ~ 2024,€2.2M,€4K,1764
+H. Rivero ST,29,67,67,River Plate 2023 ~ 2023,€1M,€500,1533
+M. Sarrafiore ST CM RM,24,67,70,Independiente 2023 ~ 2023,€1.4M,€5K,1627
+J. Chicco CDM CM,24,67,72,Colón 2022 ~ 2023,€1.4M,€4K,1675
+H. Tijanovich LM ST RM,26,67,67,Banfield 2023 ~ 2023,€1.1M,€6K,1688
+F. Zabala LB,23,67,73,Olimpia 2022 ~ 2025,€1.5M,€500,1600
+E. Cañete CM CAM ST,23,67,72,Unión Santa Fe 2020 ~ 2025,€1.5M,€4K,1857
+N. Berardo LB CB,31,67,67,Magallanes 2023 ~ 2023,€750K,€2K,1749
+L. Recalde CB,26,67,70,Deportivo Cuenca 2023 ~ 2023,€1.2M,€500,1474
+C. García CDM CM,25,67,70,Delfin 2023 ~ 2023,€1.2M,€500,1815
+V. Vada LM CAM RM,26,67,67,Real Zaragoza 2021 ~ 2023,€1.1M,€4K,1952
+F. Elizari CAM ST,31,67,67,Defensor Sporting 2022 ~ 2023,€850K,€500,1709
+F. González LW RW RM,21,67,79,Newell's Old Boys 2019 ~ 2024,€2.5M,€5K,1596
+R. Cabral LM RM,21,67,78,"Argentinos Juniors Dec 31, 2023 On loan",€2.3M,€4K,1632
+C. Ordoñez CDM CM,17,67,78,Vélez Sarsfield 2022 ~ 2025,€2M,€500,1701
+R. González CB,31,67,67,Colo-Colo 2023 ~ 2023,€700K,€2K,1455
+N. Previtali CDM CM,26,67,68,Independiente del Valle 2021 ~ 2023,€1.1M,€500,1636
+A. Rodríguez RW ST RM,26,67,67,Delfin 2023 ~ 2023,€1.1M,€500,1736
+L. Maciel CM CDM,26,67,68,Central Cordoba SdE 2023 ~ 2023,€1.2M,€5K,1786
+F. Orozco LM LW RM,20,67,79,Lanús 2020 ~ 2024,€2.5M,€5K,1591
+F. Sbuttoni CB,33,67,67,Sarmiento 2023 ~ 2023,€475K,€4K,1429
+F. Torrent RB CB,30,67,67,Huracán 2023 ~ 2023,€875K,€5K,1731
+F. Soldano ST RM CAM,27,67,67,Gimnasia La Plata 2022 ~ 2024,€1.1M,€7K,1771
+R. Saracho GK,28,67,69,Godoy Cruz 2023 ~ 2025,€875K,€3K,1077
+M. Insaurralde CM CDM RB,23,66,72,San Lorenzo 2020 ~ 2023,€1.3M,€4K,1797
+M. Pellegrino CB,19,66,78,Platense 2023 ~ 2024,€1.9M,€2K,1555
+D. Sappa GK,27,66,69,Estudiantes 2016 ~ 2023,€850K,€3K,1083
+L. Kruspzky LB,30,66,66,Patronato 2020 ~ 2023,€725K,€4K,1616
+A. Schott RWB RB,22,66,70,"Colón Dec 31, 2023 On loan",€1.2M,€4K,1675
+J. Vallejo LM RM ST,18,66,81,Independiente 2022 ~ 2026,€2M,€1K,1682
+E. López ST,24,66,71,Deportivo Cuenca 2023 ~ 2023,€1.3M,€500,1715
+E. Maciel CDM CM,25,66,71,Aldosivi 2022 ~ 2024,€1.1M,€3K,1704
+D. Fernández CB CDM,21,66,73,Vélez Sarsfield 2019 ~ 2025,€1.6M,€3K,1592
+M. Urruti ST,31,66,66,Austin 2021 ~ 2023,€725K,€3K,1846
+J. Navas RB RM,28,66,66,Central Cordoba SdE 2023 ~ 2023,€775K,€4K,1696
+V. Depietri LM RM CF,21,66,76,Talleres Córdoba 2023 ~ 2026,€1.9M,€3K,1625
+S. Solari LM LW,24,66,69,Defensa y Justicia 2023 ~ 2025,€1.2M,€4K,1673
+G. Mottes CB,24,66,69,Deportivo Táchira 2023 ~ 2027,€1M,€500,1648
+M. Estigarribia ST,27,66,66,Atlético Tucumán 2023 ~ 2025,€925K,€4K,1550
+N. Paz CB,29,66,66,Universidad Católica 2022 ~ 2025,€725K,€3K,1473
+S. Rosane CDM CM,22,66,73,San Lorenzo 2021 ~ 2023,€1.6M,€3K,1628
+A. Sabella LM LW CAM,21,66,78,"Platense Jun 30, 2023 On loan",€2.1M,€3K,1762
+U. Ortegoza CM CDM CAM,25,66,68,Talleres Córdoba 2022 ~ 2025,€1.1M,€5K,1703
+F. Cobos LB,29,66,66,Patronato 2021 ~ 2023,€750K,€5K,1700
+J. López CM CDM CAM,22,66,75,"Defensa y Justicia Dec 31, 2023 On loan",€1.9M,€5K,1796
+N. Ratti GK,28,66,67,FC Andorra 2019 ~ 2023,€675K,€2K,1158
+F. Quinteros LB,23,66,73,"Sarmiento Jun 30, 2023 On loan",€1.6M,€4K,1611
+L. Guzmán LM RM RW,22,66,75,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.9M,€4K,1670
+L. Fariña LM CAM,31,66,66,Guaraní 2022 ~ 2023,€700K,€500,1715
+G. Benítez LB,28,66,66,Huracán 2020 ~ 2024,€775K,€4K,1673
+C. Fara RB CB,28,66,66,Emelec 2023 ~ 2023,€775K,€500,1593
+B. Oyola RW RM LW,26,66,66,Delfin 2023 ~ 2023,€925K,€500,1659
+T. Galván CAM CM,22,66,72,"Colón Dec 31, 2023 On loan",€1.4M,€4K,1660
+N. Paz CB RB LB,19,66,75,Unión Santa Fe 2022 ~ 2024,€1.7M,€2K,1651
+L. Fleitas RB CB,38,66,66,César Vallejo 2020 ~ 2027,€190K,€500,1777
+A. Sánchez CM RM,23,66,73,"Atlético Tucumán Dec 31, 2023 On loan",€1.7M,€4K,1679
+K. Lopez CDM CM,20,66,77,Independiente 2022 ~ 2025,€1.8M,€3K,1812
+S. Quiroga CAM CM LM,28,66,66,Sarmiento 2016 ~ 2023,€850K,€4K,1759
+L. Souto RB RWB LB,23,66,73,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.6M,€4K,1571
+N. Zalazar CB,25,66,70,Ñublense 2022 ~ 2024,€1.1M,€2K,1482
+M. Peralta Bauer ST RM,24,66,69,San Lorenzo 2021 ~ 2023,€1.2M,€4K,1623
+F. Peña CB CDM,21,66,74,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.8M,€3K,1716
+S. Echeverría CB RB,32,66,66,Guabirá 2023 ~ 2023,€550K,€500,1371
+J. Heinze RM LM,22,66,74,General Caballero JLM 2021 ~ 2024,€1.9M,€500,1634
+A. Gabbarini GK,36,66,66,LDU Quito 2023 ~ 2025,€90K,€500,1145
+B. Aguirre LW LM RW,19,66,81,Newell's Old Boys 2022 ~ 2025,€2M,€3K,1610
+L. Acevedo CB,30,66,66,Colón 2019 ~ 2023,€700K,€4K,1386
+S. López RW CM CAM,33,66,66,Deportivo Cuenca 2023 ~ 2023,€525K,€500,1851
+M. Miranda CAM CM,22,66,73,Gimnasia La Plata 2019 ~ 2024,€1.7M,€5K,1708
+S. Montiel LM LB,21,66,75,Argentinos Juniors 2022 ~ 2024,€1.9M,€3K,1733
+J. Salvá GK,35,66,66,Patronato 2023 ~ 2023,€90K,€2K,918
+G. Ritacco CAM RW CM,29,66,66,Deportivo Táchira 2023 ~ 2023,€850K,€500,1846
+G. Luján RWB CB RB,21,66,76,San Lorenzo 2021 ~ 2024,€1.8M,€3K,1600
+F. Cambeses GK,25,66,71,Banfield 2016 ~ 2023,€1M,€3K,1097
+M. Ibáñez GK,35,66,66,Colón 2022 ~ 2023,€90K,€2K,1091
+C. Ibañez LB,23,66,73,Huracán 2019 ~ 2025,€1.6M,€3K,1627
+T. Marchiori GK,27,66,68,Atlético Tucumán 2022 ~ 2025,€775K,€3K,964
+S. Careaga CM CAM,20,66,75,Lanús 2022 ~ 2026,€1.9M,€4K,1717
+I. Maestro Puch ST,18,66,80,Atlético Tucumán 2022 ~ 2025,€2M,€2K,1582
+N. Morgantini RB RWB,27,66,66,"Platense Dec 31, 2023 On loan",€825K,€5K,1759
+N. Solís LM RM,28,66,66,"Patronato Dec 31, 2023 On loan",€850K,€5K,1639
+M. Zalazar LM LW,21,66,78,"Platense Dec 31, 2023 On loan",€2.1M,€4K,1579
+Y. Arismendi LM RM,24,66,69,Sarmiento 2021 ~ 2025,€1.2M,€3K,1704
+J. Zacaría LM CM LB,32,66,66,Aldosivi 2020 ~ 2023,€675K,€4K,1776
+N. Servetto ST CF,26,66,67,Platense 2020 ~ 2024,€1M,€5K,1565
+J. Papaleo GK,28,66,68,Sportivo Ameliano 2023 ~ 2023,€725K,€500,1044
+B. Dominguez LM LW,18,66,79,Gimnasia La Plata 2021 ~ 2024,€2M,€2K,1582
+L. Comas LM RM,27,66,66,Patronato 2013 ~ 2023,€900K,€5K,1617
+J. Guasone CB,21,66,77,Estudiantes 2022 ~ 2025,€1.8M,€3K,1340
+N. Blandi ST,32,65,65,San Lorenzo 2023 ~ 2023,€575K,€4K,1625
+J. Cascini CDM CM CAM,25,65,70,UTA Arad 2022 ~ 2024,€950K,€2K,1806
+E. Mancuso RWB RB,23,65,71,Estudiantes 2022 ~ 2023,€1.1M,€3K,1622
+E. Burgos CB,30,65,65,Málaga 2022 ~ 2024,€575K,€2K,1554
+J. García RB RM,20,65,74,Vélez Sarsfield 2019 ~ 2025,€1.5M,€3K,1660
+F. Pons ST,26,65,65,Arsenal de Sarandi 2018 ~ 2023,€800K,€3K,1573
+F. García RW ST,25,65,66,Cobresal 2023 ~ 2024,€850K,€1K,1591
+L. Ojeda GK,32,65,65,Atlético Tucumán 2023 ~ 2023,€350K,€2K,1178
+N. Ulariaga ST,20,65,74,Godoy Cruz 2020 ~ 2024,€1.6M,€2K,1636
+S. Toloza CAM CM,19,65,78,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.7M,€2K,1650
+I. Escobar LB LWB,26,65,65,"Aldosivi Dec 31, 2023 On loan",€700K,€4K,1678
+R. Insua LB LWB LM,24,65,70,Barracas Central 2023 ~ 2023,€1M,€2K,1765
+M. Peinipil RB RWB RM,23,65,72,Barracas Central 2023 ~ 2023,€1.4M,€2K,1665
+F. Baldassarra CM RM LM,23,65,71,Platense 2019 ~ 2024,€1.1M,€3K,1755
+T. Durso GK,23,65,73,Gimnasia La Plata 2017 ~ 2023,€1.4M,€3K,968
+M. Morello CM,21,65,76,Aldosivi 2022 ~ 2024,€1.6M,€2K,1704
+M. González CDM CM,18,65,76,Lanús 2021 ~ 2026,€1.4M,€1K,1618
+S. Castro ST RW,17,65,78,Vélez Sarsfield 2021 ~ 2025,€1.6M,€850,1656
+T. Nuss RM RW ST,21,65,72,Argentinos Juniors 2022 ~ 2026,€1.5M,€3K,1699
+J. Ibáñez LM,25,65,66,Colón 2023 ~ 2023,€850K,€4K,1656
+J. Indacoechea RB CM,21,65,75,Aldosivi 2018 ~ 2025,€1.5M,€2K,1727
+F. Díaz CM CDM,21,65,74,"Platense Dec 31, 2023 On loan",€1.6M,€3K,1762
+F. Grillo CB LB LM,29,65,65,UD Ibiza 2023 ~ 2023,€600K,€2K,1714
+P. Matricardi CB,28,65,66,Voluntari 2022 ~ 2023,€675K,€4K,1398
+M. Ortíz CB RB,28,65,65,Atlético Tucumán 2019 ~ 2024,€625K,€3K,1511
+J. Esquivel LM RM,21,65,74,"Patronato Dec 31, 2023 On loan",€1.6M,€3K,1613
+F. Lo Celso LM CM CAM,22,65,74,Rosario Central 2019 ~ 2023,€1.6M,€4K,1751
+M. Luciano LB LWB,18,65,80,Newell's Old Boys 2021 ~ 2025,€1.6M,€1K,1566
+F. Costa LM ST,30,65,65,General Caballero JLM 2022 ~ 2023,€700K,€500,1637
+A. Obando LM,22,65,74,"Tigre Dec 31, 2023 On loan",€1.6M,€4K,1578
+A. Spina CDM CM,20,65,76,Huracán 2020 ~ 2023,€1.5M,€2K,1722
+J. Eseiza LB LWB,20,65,75,Godoy Cruz 2023 ~ 2025,€1.5M,€2K,1630
+S. Marcich LB,24,65,68,Platense 2019 ~ 2023,€900K,€3K,1604
+J. Pignani CB,20,65,75,Platense 2022 ~ 2024,€1.5M,€2K,1597
+B. Leizza CB,22,65,75,Tigre 2019 ~ 2023,€1.5M,€3K,1449
+A. Desábato GK,32,65,65,Barracas Central 2023 ~ 2023,€350K,€2K,946
+T. González ST LM,19,65,76,Unión Santa Fe 2022 ~ 2025,€1.6M,€2K,1693
+G. Báez LB,26,65,65,Cerro Porteño 2022 ~ 2024,€700K,€500,1566
+L. Montoya LB LM,27,65,65,Tigre 2021 ~ 2024,€700K,€3K,1780
+J. Blázquez GK,21,65,77,"Brest Jun 30, 2023 On loan",€1.5M,€2K,962
+T. Escalante CM,22,65,70,Defensa y Justicia 2020 ~ 2025,€1.1M,€4K,1759
+J. Domina ST LM,16,65,79,Unión Santa Fe 2023 ~ 2027,€1.6M,€800,1692
+I. Vázquez CB,25,65,69,Platense 2018 ~ 2024,€900K,€3K,1379
+B. Barros Schelotto RB,22,65,71,Gimnasia La Plata 2021 ~ 2023,€1.1M,€4K,1582
+T. Jacob RB RWB,18,65,78,Newell's Old Boys 2021 ~ 2025,€1.6M,€1K,1591
+M. Seoane CM CDM,18,65,76,Vélez Sarsfield 2022 ~ 2025,€1.5M,€1K,1718
+L. Abascia CB,26,65,68,Ñublense 2023 ~ 2027,€825K,€2K,1435
+F. Agüero CB,27,65,67,"Rosario Central Dec 31, 2023 On loan",€750K,€3K,1353
+D. Arce CAM LM,30,65,65,Patronato 2022 ~ 2023,€700K,€4K,1689
+P. Chavarría ST RM LM,34,65,65,Málaga 2020 ~ 2023,€350K,€3K,1787
+A. Lescano CM CAM,20,65,76,Gimnasia La Plata 2022 ~ 2025,€1.6M,€3K,1794
+J. Bisanz RM LM ST,20,65,74,Banfield 2023 ~ 2026,€1.6M,€3K,1550
+J. Kaprof ST CF CAM,27,65,65,Sarmiento 2023 ~ 2023,€775K,€4K,1714
+S. Ortíz CDM CM,21,65,76,Independiente 2022 ~ 2024,€1.5M,€2K,1650
+T. Banega CM,23,65,71,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.1M,€4K,1738
+L. Ríos CM CDM,21,65,75,Banfield 2019 ~ 2023,€1.6M,€3K,1687
+M. Romero CM RWB CDM,26,65,66,Banfield 2022 ~ 2024,€825K,€4K,1766
+J. Valdez Chamorro CM CAM,28,65,65,Patronato 2022 ~ 2023,€725K,€4K,1874
+G. Nardelli CB RB,22,65,69,Colón 2020 ~ 2024,€950K,€3K,1540
+I. Cortez RB,22,65,73,Rosario Central 2022 ~ 2024,€1.5M,€4K,1552
+L. Carrizo LB CB,25,64,65,Huracán 2022 ~ 2023,€650K,€3K,1603
+T. Fernández CAM LM,18,64,75,Vélez Sarsfield 2023 ~ 2025,€1.2M,€1K,1675
+A. Spörle LB LM,26,64,65,Arsenal de Sarandi 2023 ~ 2023,€625K,€2K,1736
+L. Brochero RM CAM RW,23,64,70,"Arsenal de Sarandi Dec 31, 2023 On loan",€925K,€3K,1638
+F. Ortellado CB,21,64,76,Sportivo Ameliano 2022 ~ 2024,€1.4M,€500,1413
+T. Ortíz CM,22,64,72,Defensa y Justicia 2019 ~ 2024,€1.3M,€3K,1748
+P. Pizarro CB,21,64,72,Huracán 2018 ~ 2024,€1.2M,€2K,1496
+M. Mansilla GK,26,64,67,Central Cordoba SdE 2023 ~ 2025,€600K,€2K,929
+F. Piñero CB,29,64,64,Magallanes 2022 ~ 2023,€500K,€1K,1379
+N. Capraro CB,24,64,70,Barracas Central 2023 ~ 2023,€850K,€2K,1532
+R. Schlegel CB,25,64,69,Orlando City 2021 ~ 2024,€775K,€2K,1428
+I. Miramón CDM CM,19,64,74,Gimnasia La Plata 2021 ~ 2025,€1.2M,€2K,1765
+J. James CB,21,64,76,San Lorenzo 2022 ~ 2025,€1.4M,€2K,1389
+M. Centurión CB,23,64,72,Arsenal de Sarandi 2023 ~ 2023,€1.2M,€2K,1344
+C. Zabala CM RM CAM,24,64,69,Tigre 2020 ~ 2023,€875K,€3K,1708
+L. Marchi LB,25,64,67,Arsenal de Sarandi 2018 ~ 2023,€725K,€2K,1642
+M. Sanabria LM LW RM,18,64,78,Lanús 2022 ~ 2023,€1.4M,€1K,1449
+J. Pombo CB,21,64,74,Arsenal de Sarandi 2022 ~ 2024,€1.2M,€2K,1357
+R. Lucero RB RWB,20,64,76,Aldosivi 2021 ~ 2023,€1.3M,€2K,1563
+A. Sánchez GK,35,64,64,Platense 2022 ~ 2023,€60K,€2K,1016
+L. Fioravanti CM CDM,30,64,64,Deportivo Táchira 2023 ~ 2023,€550K,€500,1709
+E. Barrenechea CDM CM,21,64,77,Juventus 2021 ~ 2026,€1.4M,€12K,1762
+F. Di Franco CM RM LM,27,64,64,Atlético Tucumán 2022 ~ 2024,€625K,€3K,1752
+C. Arce GK,28,64,65,Barracas Central 2020 ~ 2023,€475K,€2K,1047
+F. Castelli ST,27,64,64,Central Cordoba SdE 2020 ~ 2025,€625K,€4K,1480
+A. Marinelli RM ST LM,23,64,70,Rosario Central 2018 ~ 2023,€925K,€4K,1582
+B. Blando ST,27,64,64,Lanús 2022 ~ 2025,€625K,€5K,1486
+B. Galván LM LWB RM,21,64,72,Colorado Rapids 2020 ~ 2022,€1.3M,€2K,1692
+T. Avilés CB CDM,18,64,78,Racing Club 2023 ~ 2026,€1.3M,€1K,1651
+A. Quirós LB CB,20,64,77,Banfield 2021 ~ 2023,€1.3M,€2K,1493
+F. Vázquez CM CDM,28,64,64,Patronato 2021 ~ 2023,€575K,€4K,1699
+T. Zárate ST,21,64,74,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.3M,€3K,1580
+F. Carboni LWB LB LM,19,64,78,"Monza Jun 30, 2024 On loan",€1.3M,€6K,1604
+S. Hidalgo ST,17,64,79,Independiente 2022 ~ 2024,€1.3M,€750,1597
+J. Mosqueira CM CDM,18,64,78,Unión Santa Fe 2023 ~ 2025,€1.4M,€1K,1694
+S. Ojeda CB,30,64,64,Patronato 2021 ~ 2023,€475K,€3K,1416
+L. Ferreyra LM CAM,20,64,76,Rosario Central 2020 ~ 2023,€1.4M,€3K,1582
+I. Gariglio CB RB,24,64,71,"Arsenal de Sarandi Dec 31, 2023 On loan",€1.1M,€2K,1394
+J. Rodríguez CDM CM,32,64,64,Sepsi 2022 ~ 2024,€400K,€3K,1846
+F. Alfonso CAM CM,20,64,78,River Plate 2022 ~ 2026,€1.4M,€3K,1620
+B. Nievas CDM CM,24,64,69,Patronato 2019 ~ 2024,€800K,€3K,1681
+A. Ríos ST CAM CM,32,64,64,Defensa y Justicia 2022 ~ 2023,€475K,€4K,1766
+L. Cingolani RW RM,21,64,73,Godoy Cruz 2023 ~ 2025,€1.3M,€2K,1592
+F. Cardozo LB CB,27,64,64,Arsenal de Sarandi 2023 ~ 2024,€575K,€2K,1562
+A. Bolivar CDM CM,26,64,65,Gimnasia La Plata 2017 ~ 2024,€625K,€4K,1656
+P. Ostachuk CB RB,22,64,70,Independiente 2020 ~ 2025,€850K,€3K,1700
+L. Geminiani RB LB,31,64,64,Patronato 2020 ~ 2023,€425K,€3K,1560
+R. Herrera CDM CM,21,63,73,"Barracas Central Dec 31, 2023 On loan",€1M,€2K,1629
+F. Versaci LM RM CAM,20,63,73,Defensa y Justicia 2022 ~ 2024,€1.1M,€2K,1583
+O. Bianchi ST,26,63,64,Rosario Central 2022 ~ 2024,€575K,€4K,1488
+A. Lagos RB RM,20,63,74,Atlético Tucumán 2019 ~ 2025,€1M,€2K,1503
+F. Paradela CM,20,63,72,Sarmiento 2021 ~ 2024,€1M,€2K,1688
+M. Gómez LM,18,63,80,Huracán 2023 ~ 2025,€1.2M,€1K,1642
+L. Troncoso ST CF,21,63,71,Colón 2022 ~ 2023,€1.1M,€2K,1553
+M. Brondo ST,20,63,71,Barracas Central 2023 ~ 2023,€1.1M,€2K,1531
+I. Rodríguez CM LM,20,63,75,Banfield 2021 ~ 2024,€1.2M,€2K,1621
+E. Gómez Riga GK,20,63,74,Vélez Sarsfield 2022 ~ 2025,€900K,€2K,1133
+P. Pernicone CB,20,63,74,Vélez Sarsfield 2022 ~ 2024,€975K,€2K,1462
+G. Díaz Núñez LB LWB,22,63,72,Sarmiento 2022 ~ 2023,€1M,€2K,1545
+B. Kociubinski CDM CM CB,21,63,76,"Atlético Tucumán Dec 31, 2023 On loan",€1.1M,€2K,1634
+A. Baldi CDM,20,63,76,Tigre 2019 ~ 2023,€1.1M,€2K,1627
+D. Gallardo LM RM,25,63,64,Sarmiento 2022 ~ 2025,€575K,€3K,1541
+L. Ingolotti GK,22,63,72,Aldosivi 2017 ~ 2023,€925K,€2K,948
+M. de Iriondo CDM CM,29,63,63,Grenoble Foot 38 2021 ~ 2023,€400K,€2K,1762
+F. Flores CB RB,20,63,75,"Atlético Tucumán Dec 31, 2023 On loan",€1.1M,€2K,1615
+D. Zalazar LM,20,63,74,Talleres Córdoba 2023 ~ 2026,€1.1M,€2K,1658
+M. Ortega RB,22,63,70,Tigre 2022 ~ 2025,€925K,€2K,1548
+F. Luna CAM LM RM,32,63,63,Palmaflor del Trópico 2023 ~ 2027,€375K,€500,1602
+P. Boolsen CB,24,63,69,Aldosivi 2022 ~ 2023,€700K,€2K,1433
+J. Giani RW RM ST,23,63,67,Newell's Old Boys 2021 ~ 2023,€700K,€3K,1585
+T. Ojeda LM RM ST,19,63,75,Villarreal II 2022 ~ 2024,€1.1M,€1K,1642
+T. Rambert RM ST,18,63,78,Independiente 2023 ~ 2025,€1.1M,€1K,1669
+J. Ruiz Gomez ST LW LM,28,63,63,Delfin 2017 ~ 2024,€500K,€500,1526
+E. Irala CDM CM,17,63,76,San Lorenzo 2022 ~ 2025,€1M,€500,1656
+M. Martinich LB,25,63,66,Sportivo Ameliano 2021 ~ 2027,€575K,€500,1492
+R. Ramírez LB,22,63,71,River Plate 2023 ~ 2023,€1M,€500,1453
+J. Ludueña CB,19,63,74,Unión Santa Fe 2023 ~ 2024,€975K,€1K,1436
+R. Castillo ST,23,63,68,Gimnasia La Plata 2022 ~ 2025,€725K,€3K,1536
+M. Benítez CAM CM,20,63,73,"Barracas Central Jun 30, 2023 On loan",€1.1M,€2K,1713
+F. Godoy CM CDM,32,63,63,Huracán 2022 ~ 2023,€375K,€3K,1736
+G. Pedernera LW ST LM,21,63,72,Godoy Cruz 2022 ~ 2023,€1.1M,€2K,1570
+M. Mendoza CB RB,17,63,74,Godoy Cruz 2023 ~ 2027,€925K,€500,1477
+D. Mastrángelo CB,19,63,73,Gimnasia La Plata 2023 ~ 2023,€975K,€2K,1509
+G. Comas CM LM,24,63,68,Unión Santa Fe 2019 ~ 2023,€725K,€3K,1759
+M. Levato ST,26,63,63,Patronato 2023 ~ 2023,€525K,€4K,1448
+S. Torres González CM RB,22,63,69,César Vallejo 2023 ~ 2023,€775K,€500,1565
+M. Burruchaga CM,24,63,67,Arsenal de Sarandi 2023 ~ 2023,€675K,€2K,1687
+J. Cañete ST,26,63,64,Palmaflor del Trópico 2023 ~ 2023,€575K,€500,1527
+L. Montenegro LM,19,63,77,Newell's Old Boys 2023 ~ 2027,€1.1M,€2K,1642
+A. Alonso RM CF,21,63,72,Platense 2023 ~ 2024,€1.1M,€2K,1583
+F. Juárez CM,23,63,69,Audax Italiano 2016 ~ 2025,€750K,€1K,1649
+N. Zeineddin ST CF,22,63,71,Platense 2020 ~ 2024,€1.1M,€3K,1526
+F. Ibarra CDM CM,21,63,73,"Toronto Dec 31, 2023 On loan",€1M,€1K,1650
+M. Mónaco RM CM,20,63,74,Sarmiento 2022 ~ 2026,€1.1M,€2K,1565
+L. Vega CAM CM ST,23,63,70,Marítimo 2022 ~ 2025,€975K,€2K,1691
+G. Gerzel LM LW,22,63,72,"Sarmiento Dec 31, 2023 On loan",€1.1M,€3K,1512
+P. Minissale CB,21,63,71,Argentinos Juniors 2020 ~ 2024,€1M,€2K,1384
+D. Calcaterra CB CDM,20,63,73,San Lorenzo 2022 ~ 2024,€975K,€2K,1424
+G. Paredes LB LWB LM,18,63,69,Aldosivi 2021 ~ 2023,€650K,€700,1688
+N. Romero CB LB,18,63,76,Atlético Tucumán 2021 ~ 2024,€1M,€700,1618
+A. Villalobos CM RM LM,19,62,73,Godoy Cruz 2023 ~ 2027,€850K,€1K,1673
+N. Insfrán GK,27,62,65,Gimnasia La Plata 2018 ~ 2023,€400K,€2K,942
+M. Franzotti LB,19,62,73,Unión Santa Fe 2023 ~ 2027,€825K,€1K,1575
+T. Silva LWB LB,19,62,74,San Lorenzo 2022 ~ 2024,€900K,€1K,1541
+M. Rueda CM,24,62,67,Cobresal 2023 ~ 2023,€600K,€700,1758
+S. Moreyra CDM CM,21,62,69,Colón 2020 ~ 2023,€750K,€2K,1624
+S. Luján RM,20,62,71,Huracán 2023 ~ 2025,€875K,€2K,1593
+J. Saborido RB,24,62,67,General Caballero JLM 2023 ~ 2023,€550K,€500,1503
+F. Jourdan CM,31,62,62,Central Cordoba SdE 2023 ~ 2023,€325K,€3K,1684
+J. Herrera RM LM,19,62,71,Argentinos Juniors 2022 ~ 2025,€850K,€1K,1507
+A. Aranda ST,27,62,62,Aldosivi 2021 ~ 2023,€425K,€3K,1466
+A. Toledo CDM CM,22,62,70,Rosario Central 2021 ~ 2024,€850K,€2K,1602
+M. Pellegrino ST,20,62,74,"Estudiantes Jun 30, 2023 On loan",€975K,€2K,1521
+E. Brítez RM RW,21,62,71,Aldosivi 2022 ~ 2024,€900K,€2K,1482
+J. Panichelli ST,19,62,79,Deportivo Alavés 2023 ~ 2026,€1M,€2K,1429
+F. Vega CM CAM RM,20,62,73,"Arsenal de Sarandi Dec 31, 2023 On loan",€875K,€2K,1589
+A. Domínguez ST,25,62,62,Barracas Central 2021 ~ 2023,€450K,€2K,1561
+A. Cantero ST RM CAM,24,62,67,"Barracas Central Dec 31, 2023 On loan",€600K,€2K,1527
+E. Mercado ST,25,62,65,Caracas 2023 ~ 2023,€525K,€500,1494
+D. Lucero ST CF RW,20,62,71,Arsenal de Sarandi 2023 ~ 2024,€875K,€2K,1551
+F. Zuculini CM,31,62,62,SPAL 2021 ~ 2023,€325K,€850,1756
+L. Rinaldi ST,28,62,62,WSG Tirol 2022 ~ 2023,€400K,€3K,1591
+G. Silva CM,22,62,66,Colón 2023 ~ 2023,€575K,€2K,1684
+F. Frías LM RM,20,62,74,"Barracas Central Dec 31, 2023 On loan",€950K,€2K,1521
+L. Sequeira CAM CF RW,19,62,76,"Talleres Córdoba Jun 30, 2023 On loan",€950K,€2K,1582
+M. Del Blanco LM ST,18,62,77,Unión Santa Fe 2022 ~ 2024,€925K,€900,1627
+I. Mammini ST LM,19,62,76,Gimnasia La Plata 2020 ~ 2023,€950K,€2K,1481
+T. Geralnik LM RM,19,62,78,Villarreal II 2020 ~ 2026,€1M,€900,1569
+S. Ramos Mingo CB,20,62,73,"Defensa y Justicia Dec 31, 2023 On loan",€825K,€2K,1402
+F. Cadenazzi ST,30,62,62,Magallanes 2023 ~ 2023,€400K,€1K,1402
+J. Miritello ST,23,62,68,Defensa y Justicia 2021 ~ 2026,€625K,€3K,1454
+G. Ríos RW CAM,23,62,68,Audax Italiano 2020 ~ 2024,€625K,€1K,1522
+C. González CB,32,62,62,Patronato 2023 ~ 2023,€250K,€3K,1425
+B. Aguilar CB RB,19,62,76,Lanús 2021 ~ 2024,€875K,€1K,1418
+P. Souto LB CB,22,62,69,Banfield 2023 ~ 2024,€775K,€2K,1482
+A. Di Pippa CDM,22,62,70,Banfield 2022 ~ 2023,€850K,€2K,1561
+F. Sánchez CB,18,62,74,Gimnasia La Plata 2023 ~ 2025,€875K,€800,1450
+T. Sives CAM RM LM,18,62,70,"Arsenal de Sarandi Dec 31, 2023 On loan",€850K,€1K,1585
+A. Sosa LM CM,19,62,73,Gimnasia La Plata 2023 ~ 2025,€850K,€2K,1654
+N. Canela CB LB,18,61,72,Godoy Cruz 2023 ~ 2027,€650K,€500,1501
+T. Cáceres RM,22,61,67,Patronato 2022 ~ 2023,€525K,€2K,1623
+T. Muro RM CM LM,20,61,71,Gimnasia La Plata 2019 ~ 2024,€725K,€2K,1492
+A. Lastra GK,21,61,69,"Aldosivi Dec 31, 2023 On loan",€650K,€1K,887
+G. Balzi CM CAM,20,61,73,Newell's Old Boys 2021 ~ 2023,€775K,€2K,1665
+T. Palacios CB LB,19,61,76,Talleres Córdoba 2019 ~ 2025,€725K,€1K,1349
+D. Verón CM,21,61,69,Estudiantes 2020 ~ 2023,€725K,€2K,1692
+L. Ovando ST,19,61,71,Argentinos Juniors 2019 ~ 2025,€725K,€2K,1493
+Adrián GK,21,61,72,Deportivo Alavés 2020 ~ 2024,€650K,€1K,914
+J. Barinaga CM CAM,22,61,68,Patronato 2021 ~ 2025,€675K,€2K,1677
+J. Ghirardello CB,26,61,62,Patronato 2023 ~ 2023,€350K,€2K,1429
+M. Portillo CM,22,61,67,Newell's Old Boys 2022 ~ 2025,€525K,€2K,1676
+L. Lopez RM,24,61,64,Barracas Central 2023 ~ 2023,€450K,€2K,1643
+A. Napolitano CAM CM CDM,23,61,68,Gimnasia La Plata 2021 ~ 2023,€650K,€3K,1709
+E. Saliadarre ST RW LW,20,61,74,Racing Club 2022 ~ 2026,€800K,€3K,1587
+D. González GK,19,61,73,Unión Santa Fe 2022 ~ 2024,€675K,€750,1120
+C. Paz CB,27,61,62,Voluntari 2023 ~ 2023,€325K,€2K,1379
+G. Piñeiro CM CAM,21,61,71,Estudiantes 2021 ~ 2024,€725K,€2K,1649
+F. Oviedo ST,18,61,74,Rosario Central 2022 ~ 2024,€775K,€1K,1551
+S. Valdéz CB,26,61,62,Central Cordoba SdE 2023 ~ 2023,€350K,€2K,1340
+N. Goitea CB,25,61,65,Delfin 2023 ~ 2023,€400K,€500,1333
+G. Cabrera LM RM,20,61,73,Unión Santa Fe 2022 ~ 2024,€800K,€2K,1572
+A. Rodríguez CAM LW CF,18,61,76,Lanús 2021 ~ 2023,€750K,€1K,1504
+B. Rodríguez CAM CM LM,18,61,74,Racing Club 2022 ~ 2026,€750K,€1K,1589
+V. Venetucci LM RM,19,61,73,Unión Santa Fe 2023 ~ 2027,€775K,€1K,1558
+J. Gómez RB,22,61,70,Central Cordoba SdE 2021 ~ 2024,€700K,€2K,1468
+G. Muscia CM,22,61,68,Arsenal de Sarandi 2023 ~ 2023,€675K,€2K,1708
+F. Perruzzi CDM,21,61,71,San Lorenzo 2022 ~ 2026,€700K,€2K,1525
+M. Aruga LB,23,61,67,Patronato 2018 ~ 2023,€475K,€2K,1535
+G. Novero ST,23,61,66,Patronato 2023 ~ 2023,€500K,€3K,1498
+N. Palavecino RM CM,19,61,74,Estudiantes 2021 ~ 2024,€775K,€1K,1609
+A. Sosa ST,21,61,72,Patronato 2021 ~ 2023,€750K,€2K,1482
+S. Visentin CB,23,61,69,Cittadella 2022 ~ 2023,€675K,€500,1431
+J. Giacone ST,18,61,74,Talleres Córdoba 2022 ~ 2026,€775K,€1K,1441
+J. Soler LB CB,17,61,77,Lanús 2022 ~ 2024,€775K,€500,1519
+L. Chávez RM ST,21,61,70,Gimnasia La Plata 2017 ~ 2023,€725K,€2K,1507
+G. Torres ST LM,22,61,69,"Central Cordoba SdE Dec 31, 2023 On loan",€750K,€3K,1491
+S. Salle RB RM,18,61,73,Independiente 2023 ~ 2027,€725K,€650,1678
+B. Palazzo CB RB,21,61,71,Gimnasia La Plata 2021 ~ 2023,€700K,€2K,1385
+G. Villar GK,27,61,63,Barracas Central 2017 ~ 2025,€300K,€1K,883
+J. Romero ST CF,19,61,75,Talleres Córdoba 2020 ~ 2025,€775K,€2K,1451
+L. Naranjo CM,20,60,73,Atlético Tucumán 2021 ~ 2025,€600K,€1K,1611
+V. Pereyra LM,20,60,67,Patronato 2022 ~ 2024,€475K,€2K,1525
+M. González RM CAM CM,20,60,74,Banfield 2020 ~ 2023,€600K,€2K,1550
+I. Russo ST RM,21,60,69,"Patronato Jun 30, 2023 On loan",€550K,€2K,1461
+F. Rivasseau GK,23,60,66,Patronato 2020 ~ 2024,€325K,€2K,902
+F. González LW LM,21,60,68,Platense 2021 ~ 2024,€550K,€2K,1553
+M. Acosta GK,20,60,68,Argentinos Juniors 2021 ~ 2023,€475K,€1K,984
+D. Barrera RM RW,18,60,76,Talleres Córdoba 2023 ~ 2027,€625K,€850,1471
+M. Pérez CB,20,60,69,Banfield 2022 ~ 2023,€500K,€2K,1382
+K. Isa Luna ST LM,21,60,70,Atlético Tucumán 2019 ~ 2023,€550K,€2K,1463
+E. Herrera RWB RB CB,19,60,72,San Lorenzo 2019 ~ 2024,€550K,€1K,1514
+B. Guille ST,24,60,65,Atlético Tucumán 2019 ~ 2025,€375K,€2K,1534
+E. Díaz ST,30,60,60,"Patronato Dec 31, 2023 On loan",€240K,€2K,1485
+F. Rizzi LB,24,60,62,Argeş 2023 ~ 2024,€300K,€1K,1496
+M. Ruiz Díaz RB,25,60,62,"Patronato Dec 31, 2023 On loan",€275K,€2K,1483
+E. Cannavó CM,20,60,68,Defensa y Justicia 2022 ~ 2026,€550K,€2K,1622
+S. Laquidain LB CB,20,60,73,Aldosivi 2020 ~ 2024,€575K,€1K,1420
+F. Marco CB,19,60,73,Defensa y Justicia 2022 ~ 2025,€550K,€1K,1353
+J. Rojas GK,22,60,70,Delfin 2023 ~ 2023,€475K,€500,872
+J. D'Angelo CDM,21,60,66,Independiente 2022 ~ 2024,€375K,€2K,1629
+N. Manganelli GK,21,60,69,Gimnasia La Plata 2019 ~ 2024,€475K,€1K,986
+A. Juárez LM CM,17,60,68,Barracas Central 2022 ~ 2023,€500K,€500,1602
+R. Fernández LW ST,16,60,74,Racing Club 2022 ~ 2026,€550K,€650,1475
+M. Hernandez ST,17,60,74,San Lorenzo 2022 ~ 2025,€575K,€500,1472
+P. Aranda RB CB LB,21,60,68,Lanús 2020 ~ 2023,€525K,€2K,1438
+A. Alcorcel GK,21,60,70,Platense 2022 ~ 2024,€475K,€1K,967
+F. Sanguinetti GK,21,60,70,Banfield 2021 ~ 2023,€475K,€1K,923
+A. Steimbach RM LM,19,60,71,Gimnasia La Plata 2022 ~ 2025,€525K,€2K,1628
+V. Carboni CAM ST,17,60,82,Inter 2022 ~ 2027,€775K,€1K,1582
+D. Vasquez ST,21,60,66,Central Cordoba SdE 2022 ~ 2024,€400K,€2K,1437
+W. Barlasina GK,24,60,65,Newell's Old Boys 2020 ~ 2024,€300K,€1K,885
+J. Cerrudo RM LM,18,60,74,Rosario Central 2022 ~ 2025,€575K,€950,1499
+K. Silva CB,19,60,72,Rosario Central 2022 ~ 2025,€550K,€1K,1358
+M. Brandán RB,21,59,67,Atlético Tucumán 2023 ~ 2023,€475K,€1K,1413
+U. Ramírez RW CM,22,59,66,Aldosivi 2020 ~ 2022,€450K,€2K,1593
+F. Ravizzoli GK,24,59,62,Milton Keynes Dons 2021 ~ 2023,€240K,€1K,917
+G. Flores ST LW,20,59,72,Tigre 2021 ~ 2024,€550K,€2K,1468
+T. Cervera LW,19,59,71,Aldosivi 2022 ~ 2025,€525K,€1K,1429
+M. Puig CDM CM,21,59,68,Barracas Central 2022 ~ 2023,€475K,€1K,1615
+M. Budiño GK,26,59,61,Patronato 2023 ~ 2023,€210K,€2K,853
+J. Pérez Tica ST,19,59,70,Newell's Old Boys 2022 ~ 2025,€500K,€2K,1458
+R. Cansinos ST,19,59,68,Central Cordoba SdE 2023 ~ 2024,€500K,€1K,1470
+J. Peinipil ST,20,59,67,Arsenal de Sarandi 2023 ~ 2025,€500K,€1K,1442
+F. Tobares ST,22,58,67,Aldosivi 2019 ~ 2023,€450K,€2K,1395
+V. Mancini LW,19,58,74,Aldosivi 2022 ~ 2024,€525K,€1K,1462
+A. Atum RM,16,58,72,Estudiantes 2023 ~ 2025,€475K,€500,1422
+G. Olguin CM,22,58,65,Central Cordoba SdE 2021 ~ 2024,€400K,€2K,1574
+N. Tolosa LB,21,58,66,Barracas Central 2022 ~ 2023,€425K,€1K,1438
+K. González RM,26,58,58,Patronato 2023 ~ 2023,€220K,€2K,1454
+K. Benítez CB CDM,20,57,66,Sportivo Ameliano 2023 ~ 2027,€325K,€500,1345

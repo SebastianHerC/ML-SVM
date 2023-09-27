@@ -1,6 +1,6 @@
 import pandas as pd
 from imblearn.under_sampling import RandomUnderSampler
-from sklearn.model_selection import train_test_split,GridSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 from sklearn.metrics import f1_score, classification_report, confusion_matrix
@@ -88,10 +88,10 @@ print(cm)
 
 #____________Optimización del modelo__________________________
 
-param = { 'C': [1,4,8,16,32], 'kernel': ['linear', 'rbf']}
+"""param = { 'C': [1,4,8,16,32], 'kernel': ['linear', 'rbf']}
 
 #C= parametro de penailización, indica cuanto error es soportable
-#Kernel= parte del sistema que hace procesamientos y especificar que funcion queremos usar
+# Kernel= parte del sistema que hace procesamientos y especificar que funcion queremos usar
 #        - lineal
 #        - polinomicas 
 #        - rbf
@@ -102,4 +102,4 @@ svc_g.fit(train_x_vec,train_y)
 #cv= validacion cruzada
 
 print(svc_g.best_estimator_)
-print(svc_g.best_params_)
+print(svc_g.best_params_)"""

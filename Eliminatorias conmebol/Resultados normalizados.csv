@@ -1,0 +1,157 @@
+fecha,local,resultado,visita,ciudad
+22 de septiembre de 1957,Chile,2:01,Bolivia,Santiago
+29 de septiembre de 1957,Bolivia,3:00,Chile,La Paz
+13 de octubre de 1957,Chile,0:02,Argentina,Santiago
+20 de octubre de 1957,Argentina,4:00,Chile,Buenos Aires
+1 de agosto de 1965,Chile,7:02,Colombia,Santiago
+7 de agosto de 1965,Colombia,2:00,Chile,Barranquilla
+15 de agosto de 1965,Ecuador,2:02,Chile,Guayaquil
+22 de agosto de 1965,Chile,3:01,Ecuador,Santiago
+13 de julio de 1969,Chile,0:00,Uruguay,Santiago
+27 de julio de 1969,Chile,4:01,Ecuador,Santiago
+3 de julio de 1969,Ecuador,1:01,Chile,Guayaquil
+10 de agosto de 1969,Uruguay,2:00,Chile,Montevideo
+29 de abril de 1973,Perú,2:00,Chile,Lima
+13 de mayo de 1973,Chile,2:00,Perú,Santiago
+5 de agosto de 1973,Chile,2:01,Perú,Montevideo
+27 de febrero de 1977,Ecuador,0:01,Chile,Guayaquil
+6 de marzo de 1977,Chile,1:01,Perú,Santiago
+20 de marzo de 1977,Chile,3:00,Ecuador,Santiago
+26 de marzo de 1977,Perú,2:00,Chile,Lima
+24 de mayo de 1981,Ecuador,0:00,Chile,Guayaquil
+7 de junio de 1981,Paraguay,0:01,Chile,Asunción
+14 de junio de 1981,Chile,2:00,Ecuador,Santiago
+21 de junio de 1981,Chile,3:00,Paraguay,Santiago
+3 de marzo de 1985,Ecuador,1:01,Chile,Quito
+17 de marzo de 1985,Chile,6:02,Ecuador,Santiago
+24 de marzo de 1985,Chile,2:00,Uruguay,Santiago
+7 de abril de 1985,Uruguay,2:01,Chile,Montevideo
+17 de noviembre de 1985,Chile,2:02,Paraguay,Santiago
+10 de noviembre de 1985,Paraguay,3:00,Chile,Asunción
+3 de noviembre de 1985,Perú,0:01,Chile,Lima
+27 de octubre de 1985,Chile,4:02,Perú,Santiago
+6 de agosto de 1989,Venezuela,1:03,Chile,Caracas
+13 de agosto de 1989,Chile,1:01,Brasil,Santiago
+27 de agosto de 1989,Chile,5:00,Venezuela,Mendoza
+3 de septiembre de 1989,Brasil,2:00,Chile,Río de Janeiro
+2 de junio de 1996,Venezuela,1:01,Chile,Barinas
+6 de julio de 1996,Chile,4:01,Ecuador,Santiago
+1 de septiembre de 1996,Colombia,4:01,Chile,Barranquilla
+9 de octubre de 1996,Paraguay,2:01,Chile,Asunción
+15 de diciembre de 1996,Argentina,1:01,Chile,Buenos Aires
+12 de enero de 1997,Perúú,2:01,Chile,Lima
+12 de febrero de 1997,Bolivia,1:01,Chile,La Paz
+29 de abril de 1997,Chile,6:00,Venezuela,Santiago
+8 de junio de 1997,Ecuador,1:01,Chile,Quito
+5 de julio de 1997,Chile,4:01,Colombia,Santiago
+20 de julio de 1997,Chile,2:01,Paraguay,Santiago
+20 de agosto de 1997,Uruguay,1:00,Chile,Montevideo
+10 de septiembre de 1997,Chile,1:02,Argentina,Santiago
+12 de octubre de 1997,Chile,4:00,Perú,Santiago
+16 de noviembre de 1997,Chile,3:00,Bolivia,Santiago
+29 de marzo de 2000,Argentina,4:01,Chile,Buenos Aires
+26 de abril de 2000,Chile,1:01,Perú,Santiago
+3 de junio de 2000,Uruguay,2:01,Chile,Montevideo
+29 de junio de 2000,Chile,3:01,Paraguay,Santiago
+19 de julio de 2000,Bolivia,1:00,Chile,La Paz
+25 de julio de 2000,Venezuela,0:02,Chile,San Cristbal
+15 de agosto de 2000,Chile,3:00,Brasil,Santiago
+2 de septiembre de 2000,Chile,0:01,Colombia,Santiago
+8 de octubre de 2000,Ecuador,1:00,Chile,Quito
+15 de noviembre de 2000,Chile,0:02,Argentina,Santiago
+27 de marzo de 2001,Perú,3:01,Chile,Lima
+24 de abril de 2001,Chile,0:01,Uruguay,Santiago
+2 de junio de 2001,Paraguay,1:00,Chile,Asunción
+14 de agosto de 2001,Chile,2:02,Bolivia,Santiago
+4 de septiembre de 2001,Chile,0:02,Venezuela,Santiago
+7 de octubre de 2001,Brasil,2:00,Chile,Curitiba
+7 de noviembre de 2001,Colombia,3:01,Chile,Bogotá
+14 de noviembre de 2001,Chile,0:00,Ecuador,Santiago
+6 de septiembre de 2003,Argentina,2:02,Chile,Buenos Aires
+9 de septiembre de 2003,Chile,2:01,Perú,Santiago
+15 de noviembre de 2003,Uruguay,2:01,Chile,Montevideo
+18 de noviembre de 2003,Chile,0:01,Paraguay,Santiago
+30 de marzo de 2004,Bolivia,0:02,Chile,La Paz
+1 de junio de 2004,Venezuela,0:01,Chile,San Cristbal
+6 de junio de 2004,Chile,1:01,Brasil,Santiago
+5 de septiembre de 2004,Chile,0:00,Colombia,Santiago
+10 de octubre de 2004,Ecuador,2:00,Chile,Quito
+13 de octubre de 2004,Chile,0:00,Argentina,Santiago
+17 de noviembre de 2004,Perú,2:01,Chile,Lima
+26 de marzo de 2005,Chile,1:01,Uruguay,Santiago
+30 de marzo de 2005,Paraguay,2:01,Chile,Asunción
+4 de junio de 2005,Chile,3:01,Bolivia,Santiago
+8 de junio de 2005,Chile,2:01,Venezuela,Santiago
+4 de septiembre de 2005,Brasil,5:00,Chile,Brasilia
+8 de octubre de 2005,Colombia,1:01,Chile,Barranquilla
+12 de octubre de 2005,Chile,0:00,Ecuador,Santiago
+13 de octubre de 2007,Argentina,2:00,Chile,Buenos Aires
+17 de octubre de 2007,Chile,2:00,Perú,Santiago
+18 de noviembre de 2007,Uruguay,2:02,Chile,Montevideo
+21 de noviembre de 2007,Chile,0:03,Paraguay,Santiago
+15 de junio de 2008,Bolivia,0:02,Chile,La Paz
+19 de junio de 2008,Venezuela,2:03,Chile,Puerto La Cruz
+7 de septiembre de 2008,Chile,0:03,Brasil,Santiago
+10 de septiembre de 2008,Chile,4:00,Colombia,Santiago
+12 de octubre de 2008,Ecuador,1:00,Chile,Quito
+15 de octubre de 2008,Chile,1:00,Argentina,Santiago
+29 de marzo de 2009,Perú,1:03,Chile,Lima
+1 de abril de 2009,Chile,0:00,Uruguay,Santiago
+6 de junio de 2009,Paraguay,0:02,Chile,Asunción
+10 de junio de 2009,Chile,4:00,Bolivia,Santiago
+5 de septiembre de 2009,Chile,2:02,Venezuela,Santiago
+9 de septiembre de 2009,Brasil,4:02,Chile,Salvador de Bahía
+10 de octubre de 2009,Colombia,2:04,Chile,Medellín
+14 de octubre de 2009,Chile,1:00,Ecuador,Santiago
+7 de octubre de 2011,Argentina,4:01,Chile,Buenos Aires
+11 de octubre de 2011,Chile,4:02,Perú,Santiago
+11 de noviembre de 2011,Uruguay,4:00,Chile,Montevideo
+15 de noviembre de 2011,Chile,2:0 (1:0),Paraguay,Santiago
+2 de junio de 2012,Bolivia,0:02,Chile,La Paz
+9 de junio de 2012,Venezuela,0:02,Chile,Puerto La Cruz
+11 de septiembre de 2012,Chile,1:03,Colombia,Santiago
+12 de octubre de 2012,Ecuador,3:01,Chile,Quito
+16 de octubre de 2012,Chile,1:02,Argentina,Santiago
+22 de marzo de 2013,Perú,1:00,Chile,Lima
+26 de marzo de 2013,Chile,2:00,Uruguay,Santiago
+7 de junio de 2013,Paraguay,1:02,Chile,Asunción
+11 de junio de 2013,Chile,3:01,Bolivia,Santiago
+6 de septiembre de 2013,Chile,3:00,Venezuela,Santiago
+11 de octubre de 2013,Colombia,3:03,Chile,Barranquilla
+15 de octubre de 2013,Chile,2:01,Ecuador,Santiago
+8 de octubre de 2015,Chile,2:00,Brasil,Santiago
+13 de octubre de 2015,Perú,3:04,Chile,Lima
+12 de noviembre de 2015,Chile,1:01,Colombia,Santiago
+17 de noviembre de 2015,Uruguay,3:00,Chile,Montevideo
+24 de marzo de 2016,Chile,1:02,Argentina,Santiago
+29 de marzo de 2016,Venezuela,1:04,Chile,Barinas
+1 de septiembre de 2016,Paraguay,2:01,Chile,Asunción
+6 de septiembre de 2016,Chile,0:00,Bolivia,Santiago
+6 de octubre de 2016,Ecuador,3:00,Chile,Quito
+11 de octubre de 2016,Chile,2:01,Perú,Santiago
+10 de noviembre de 2016,Colombia,0:00,Chile,Barranquilla
+15 de noviembre de 2016,Chile,3:01,Uruguay,Santiago
+23 de marzo de 2017,Argentina,1:00,Chile,Buenos Aires
+28 de marzo de 2017,Chile,3:01,Venezuela,Santiago
+31 de agosto de 2017,Chile,0:03,Paraguay,Santiago
+5 de septiembre de 2017,Bolivia,1:00,Chile,La Paz
+5 de octubre de 2017,Chile,2:01,Ecuador,Santiago
+10 de octubre de 2017,Brasil,3:00,Chile,sao paulo
+8 de octubre de 2020,Uruguay,2:01,Chile,Montevideo
+13 de octubre de 2020,Chile,2:02,Colombia,Santiago
+13 de noviembre de 2020,Chile,2:00,Perú,Santiago
+17 de noviembre de 2020,Venezuela,2:01,Chile,Caracas
+10 de octubre de 2021,Chile,2:00,Paraguay,Santiago
+5 de septiembre de 2021,Ecuador,0:00,Chile,Quito
+3 de junio de 2021,Argentina,1:01,Chile,Santiago del Estero
+8 de junio de 2021,Chile,1:01,Bolivia,Santiago
+2 de septiembre de 2021,Chile,0:01,Brasil,Santiago
+9 de septiembre de 2021,Colombia,3:01,Chile,Barranquilla
+7 de octubre de 2021,Perú,2:00,Chile,Lima
+14 de octubre de 2021,Chile,3:00,Venezuela,Santiago
+11 de noviembre de 2021,Paraguay,0:01,Chile,Asunción
+16 de noviembre de 2021,Chile,0:02,Ecuador,Santiago
+27 de enero de 2022,Chile,1:02,Argentina,Calama
+1 de febrero de 2022,Bolivia,2:03,Chile,La Paz
+24 de marzo de 2022,Brasil,4:00,Chile,Río de Janeiro
+29 de marzo de 2022,Chile,0:02,Uruguay,Santiago
